@@ -26,7 +26,7 @@ This repository is intentionally stored in multiple independent locations. If an
 |----------|-----------------|------|---------------------|
 | **GitHub** | https://github.com/occultschool/western-occult-texts-zh | Living repo | Decades |
 | **Internet Archive** | https://archive.org/details/western-occult-texts-zh *(pending)* | Open archive | 50–100+ years |
-| **Zenodo (CERN)** | DOI: *(pending — see CITATION.cff after registration)* | Institutional | 50–100+ years |
+| **Zenodo (CERN)** | https://doi.org/10.5281/zenodo.19637071 | Institutional | 50–100+ years |
 | **Software Heritage** | https://archive.softwareheritage.org/ *(pending)* | Code archive | 50–100+ years |
 | **GitHub Arctic Code Vault** | Svalbard, Norway (automatic for public repos with activity) | Physical film | ~1,000 years |
 | **HuggingFace Datasets** | https://huggingface.co/datasets/occultschool/western-occult-texts-zh *(pending)* | AI/research | Decades |
@@ -96,7 +96,7 @@ We aim to be a small part of the long chain through which human wisdom is transm
 | Date | Action | Performed By |
 |------|--------|-------------|
 | 2026-04-18 | Initial publication on GitHub | OccultSchool |
-| *(pending)* | Submitted to Internet Archive | — |
-| *(pending)* | Registered with Zenodo, DOI assigned | — |
+| 2026-04-18 | Registered with Zenodo, DOI: 10.5281/zenodo.19637071 | OccultSchool |
+
 | *(pending)* | Submitted to Software Heritage | — |
 | *(pending)* | Uploaded to HuggingFace Datasets | — |

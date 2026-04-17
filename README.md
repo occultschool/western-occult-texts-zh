@@ -144,7 +144,7 @@ If you use or reference these translations in academic or published work, please
 ```
 OccultSchool (神秘學講堂). (2026). Western Occult Texts — Chinese Translation Archive
 (Version 1.0) [Data set]. GitHub. https://github.com/occultschool/western-occult-texts-zh
-DOI: [see CITATION.cff after Zenodo registration]
+DOI: https://doi.org/10.5281/zenodo.19637071
 ```
 
 ### Preservation
