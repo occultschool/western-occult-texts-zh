@@ -11,7 +11,7 @@
 # Digital Preservation Record
 
 **Repository**: Western Occult Texts — Chinese Translation Archive  
-**Curator**: OccultSchool (幽玄學堂)  
+**Curator**: OccultSchool (神秘學講堂)  
 **Initial Publication**: 2026-04-18  
 **Last Updated**: 2026-04-18  
 **Primary URL**: https://github.com/occultschool/western-occult-texts-zh
@@ -61,7 +61,7 @@ If you are reading this document many years from now and need to restore or re-d
 1. **Check all mirrors** listed above. Use the one still accessible.
 2. **Verify the checksum manifest** to confirm file integrity.
 3. **Re-submit to any dead mirrors** using whatever archiving platforms exist at your time. The principle is: keep many copies in many places.
-4. **The license is CC BY-SA 4.0** — you are free to copy, re-host, translate, and adapt, as long as you attribute *OccultSchool (幽玄學堂)* and share under the same license.
+4. **The license is CC BY-SA 4.0** — you are free to copy, re-host, translate, and adapt, as long as you attribute *OccultSchool (神秘學講堂)* and share under the same license.
 5. **The format is UTF-8 Markdown** — this is human-readable with no software required. If Markdown renderers no longer exist, the raw text files are still fully legible.
 
 ### Re-archiving Instructions (for any era)

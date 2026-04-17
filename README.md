@@ -9,7 +9,7 @@
 
 ### 簡介
 
-本倉庫是「幽玄學堂」（OccultSchool）發布的**西方神秘學典籍中文譯庫**，收錄西方密傳哲學、神智學、卡巴拉、赫密斯主義、玫瑰十字會、占星學及相關靈性傳統的中文翻譯與評注文章，提供**繁體中文**與**簡體中文**兩種版本。
+本倉庫是「神秘學講堂」（OccultSchool）發布的**西方神秘學典籍中文譯庫**，收錄西方密傳哲學、神智學、卡巴拉、赫密斯主義、玫瑰十字會、占星學及相關靈性傳統的中文翻譯與評注文章，提供**繁體中文**與**簡體中文**兩種版本。
 
 ### 內容
 
@@ -22,13 +22,13 @@
 
 每個主目錄下包含：
 - `books/` — 完整書籍翻譯（共 20 部），涵蓋：
-  - 布拉瓦茨基著作（《秘密教義》、《無聲之聲》等）
+  - 布拉瓦茨基著作（《秘密教義》、《寂靜之聲》等）
   - 弗朗茨·哈特曼《與開悟者同行》
   - 《以諾書》《薄伽梵歌》《啟示錄》注釋
   - 及其他西方密傳經典
 - `docs/` — 原創評注文章（共 18 個主題分類，1,000+ 篇），包含：
   - 冥想與實修、占星與星座、魔法與靈視
-  - 卡巴拉、赫密斯主義、生死奧秘
+  - 赫爾墨斯主義、生死奧秘
   - 布拉瓦茨基著作導讀、神秘學十二堂課 等
 
 ### 文章格式
@@ -38,12 +38,12 @@
 ### 授權
 
 本作品以 [Creative Commons 姓名標示-相同方式分享 4.0 國際授權條款](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant) 發布。  
-您可以自由轉載、改編，但須署名「幽玄學堂 (OccultSchool)」並以相同授權分享。
+您可以自由轉載、改編，但須署名「神秘學講堂 (OccultSchool)」並以相同授權分享。
 
 ### 引用
 
 ```
-幽玄學堂 (OccultSchool). (2026). 西方神秘學典籍中文譯庫 [Western Occult Texts — Chinese Translation Archive].
+神秘學講堂 (OccultSchool). (2026). 西方神秘學典籍中文譯庫 [Western Occult Texts — Chinese Translation Archive].
 GitHub. https://github.com/occultschool/western-occult-texts-zh
 ```
 
@@ -53,7 +53,7 @@ GitHub. https://github.com/occultschool/western-occult-texts-zh
 
 ### 简介
 
-本仓库是「幽玄学堂」（OccultSchool）发布的**西方神秘学典籍中文译库**，收录西方密传哲学、神智学、卡巴拉、赫密斯主义、玫瑰十字会、占星学及相关灵性传统的中文翻译与评注文章，提供**繁体中文**与**简体中文**两种版本。
+本仓库是「神秘学讲堂」（OccultSchool）发布的**西方神秘学典籍中文译库**，收录西方密传哲学、神智学、卡巴拉、赫密斯主义、玫瑰十字会、占星学及相关灵性传统的中文翻译与评注文章，提供**繁体中文**与**简体中文**两种版本。
 
 ### 内容
 
@@ -76,7 +76,7 @@ GitHub. https://github.com/occultschool/western-occult-texts-zh
 
 ### About
 
-This repository is the **Western Occult Texts — Chinese Translation Archive** published by **OccultSchool** (幽玄學堂). It contains Chinese translations and original commentary articles on Western esoteric philosophy, Theosophy, Kabbalah, Hermeticism, Rosicrucianism, Astrology, and related spiritual traditions.
+This repository is the **Western Occult Texts — Chinese Translation Archive** published by **OccultSchool** (神秘學講堂). It contains Chinese translations and original commentary articles on Western esoteric philosophy, Theosophy, Kabbalah, Hermeticism, Rosicrucianism, Astrology, and related spiritual traditions.
 
 All content is provided in both **Traditional Chinese (zh-Hant)** and **Simplified Chinese (zh-Hans)**.
 
@@ -133,7 +133,7 @@ All files are **UTF-8 encoded Markdown** (`.md`) — one of the most future-proo
 
 This work is published under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
-You are free to share and adapt this material for any purpose, provided you give appropriate credit to **OccultSchool (幽玄學堂)** and distribute your contributions under the same license.
+You are free to share and adapt this material for any purpose, provided you give appropriate credit to **OccultSchool (神秘學講堂)** and distribute your contributions under the same license.
 
 [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -142,7 +142,7 @@ You are free to share and adapt this material for any purpose, provided you give
 If you use or reference these translations in academic or published work, please cite:
 
 ```
-OccultSchool (幽玄學堂). (2026). Western Occult Texts — Chinese Translation Archive
+OccultSchool (神秘學講堂). (2026). Western Occult Texts — Chinese Translation Archive
 (Version 1.0) [Data set]. GitHub. https://github.com/occultschool/western-occult-texts-zh
 DOI: [see CITATION.cff after Zenodo registration]
 ```
