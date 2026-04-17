@@ -1,0 +1,11 @@
+{
+  "label": "《克里希纳的真实福音》米绍博士",
+  "position": 7,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/krishna.png"
+  }
+}

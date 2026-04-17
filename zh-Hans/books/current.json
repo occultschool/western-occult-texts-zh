@@ -1,0 +1,290 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.booksSidebar.category.《與開悟者同行：玫瑰十字會歷險記》弗朗茨·哈特曼": {
+    "message": "《与开悟者同行：玫瑰十字会历险记》弗朗茨·哈特曼",
+    "description": "The label for category 《與開悟者同行：玫瑰十字會歷險記》弗朗茨·哈特曼 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《與開悟者同行：玫瑰十字會歷險記》弗朗茨·哈特曼.link.generated-index.description": {
+    "message": "这是一部引人入胜的神秘学小说，记录了探求者与玫瑰十字会隐修大师的相遇。书中透过生动的对话与奇妙的经历，深入浅出地探讨了炼金术、轮回转世、心灵感应等奥秘，为渴望觉醒的灵魂提供宝贵的指引。",
+    "description": "The generated-index page description for category 《與開悟者同行：玫瑰十字會歷險記》弗朗茨·哈特曼 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《金黃星》米紹博士": {
+    "message": "《金黄星》米绍博士",
+    "description": "The label for category 《金黃星》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《金黃星》米紹博士.link.generated-index.description": {
+    "message": "一部充满神秘色彩的灵性寓言，讲述了两位埃及朝圣者在神圣信使的引导下，穿越不同维度与意识层次的旅程。书中揭示了宇宙的深层法则与灵魂进化的奥秘，是一部献给真正启蒙者的智慧之书。",
+    "description": "The generated-index page description for category 《金黃星》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《魯魯的尋求》米紹博士": {
+    "message": "《鲁鲁的寻求》米绍博士",
+    "description": "The label for category 《魯魯的尋求》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《魯魯的尋求》米紹博士.link.generated-index.description": {
+    "message": "跟随主角鲁鲁的脚步，踏上寻找真理、爱与自我的冒险旅程。这部作品融合了古印度的壮丽背景与深刻的哲学思考，展现了灵魂在光明与黑暗、爱与失去之间的挣扎与成长，最终寻得内在的平静。",
+    "description": "The generated-index page description for category 《魯魯的尋求》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《李文和的教誨》米紹博士": {
+    "message": "《李文和的教诲》米绍博士",
+    "description": "The label for category 《李文和的教誨》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《李文和的教誨》米紹博士.link.generated-index.description": {
+    "message": "透过智者李文和与弟子的对话，传递了中国古老智慧的精髓。书中以优美的散文与诗歌，探讨了人生的意义、道德的修养以及如何在这个纷扰的世界中保持内心的宁静与纯真。",
+    "description": "The generated-index page description for category 《李文和的教誨》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《幻想交響曲》米紹博士": {
+    "message": "《幻想交响曲》米绍博士",
+    "description": "The label for category 《幻想交響曲》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《幻想交響曲》米紹博士.link.generated-index.description": {
+    "message": "一部充满象征意义的灵性戏剧，透过音乐般的叙事结构，探索了灵魂在幻象与真实之间的旅程。故事深入描绘了人性中的光明与阴影，以及灵魂在救赎与重生过程中的挣扎与升华。",
+    "description": "The generated-index page description for category 《幻想交響曲》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《克里希納的真實福音》米紹博士": {
+    "message": "《克里希纳的真实福音》米绍博士",
+    "description": "The label for category 《克里希納的真實福音》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《克里希納的真實福音》米紹博士.link.generated-index.description": {
+    "message": "本书旨在还原克里希纳教诲的真貌，揭示了被历史尘封的神圣智慧。它探讨了宇宙的创造、生命的法则以及神圣之爱的本质，带领读者穿越迷雾，直抵灵性真理的核心。",
+    "description": "The generated-index page description for category 《克里希納的真實福音》米紹博士 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《寂靜之聲》布拉瓦茨基": {
+    "message": "《寂静之声》布拉瓦茨基",
+    "description": "The label for category 《寂靜之聲》布拉瓦茨基 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《寂靜之聲》布拉瓦茨基.link.generated-index.description": {
+    "message": "海伦娜·布拉瓦茨基夫人留给世人的灵性瑰宝，摘录自古老的《金诫书》。它以诗一般的语言，为修行者指引通往内在寂静与灵性觉醒的道路，教导我们如何聆听那无声之声，开启智慧的心灵之眼。",
+    "description": "The generated-index page description for category 《寂靜之聲》布拉瓦茨基 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《白蓮田園詩》梅柏柯林斯": {
+    "message": "《白莲田园诗》梅柏柯林斯",
+    "description": "The label for category 《白蓮田園詩》梅柏柯林斯 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《白蓮田園詩》梅柏柯林斯.link.generated-index.description": {
+    "message": "一部优美的灵性寓言，以古埃及为背景，讲述了年轻祭司在纯洁的白莲女神与黑暗势力之间的抉择。故事象征著灵魂在物质世界中的考验与觉醒，描绘了通往神圣智慧的艰辛而光荣的旅程。",
+    "description": "The generated-index page description for category 《白蓮田園詩》梅柏柯林斯 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《神聖智慧之鑰》布拉瓦茨基": {
+    "message": "《神圣智慧之钥》布拉瓦茨基",
+    "description": "The label for category 《神聖智慧之鑰》布拉瓦茨基 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《神聖智慧之鑰》布拉瓦茨基.link.generated-index.description": {
+    "message": "通往神圣奥秘的入门之钥。布拉瓦茨基夫人以问答的形式，清晰而系统地阐述了宇宙的构造、人的七重本质、死后的世界以及业力与轮回的法则，是理解神秘科学不可或缺的指南。",
+    "description": "The generated-index page description for category 《神聖智慧之鑰》布拉瓦茨基 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義》第一卷": {
+    "message": "《秘密教义》第一卷",
+    "description": "The label for category 《秘密教義》第一卷 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義》第一卷.link.generated-index.description": {
+    "message": "《秘密教义》是神秘科学中不可或缺的一部经典，特别适合那些真正以追求真理为志向的学生。书中揭示了宇宙、生命、意识等永恒的奥秘，并通过古老智慧与科学文献的结合，解开了宗教和神话中的象征意义。然而，这并非易读之书，它需要多年的深入研究与冥想式的理解，才能领悟其中的智慧。对于那些认真追求真理的人，《秘密教义》将开启一扇通往全新智慧和奇迹世界的大门。",
+    "description": "The generated-index page description for category 《秘密教義》第一卷 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《道路上的光》梅柏柯林斯著": {
+    "message": "《道路上的光》梅柏柯林斯著",
+    "description": "The label for category 《道路上的光》梅柏柯林斯著 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《道路上的光》梅柏柯林斯著.link.generated-index.description": {
+    "message": "这是一本为灵性探求者准备的实修指南。它以简练而深刻的格言，阐述了修行路上的法则与戒律，教导我们如何消除内心的杂念，培养坚定的意志，照亮通往真理与解脱的道路。",
+    "description": "The generated-index page description for category 《道路上的光》梅柏柯林斯著 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義》第一卷 - 布拉瓦茨基": {
+    "message": "《秘密教义》第一卷 - 布拉瓦茨基",
+    "description": "The label for category 《秘密教義》第一卷 - 布拉瓦茨基 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義》第一卷 - 布拉瓦茨基.link.generated-index.description": {
+    "message": "海伦娜·布拉瓦茨基夫人的宏大著作，深入探索宇宙的起源与演化。书中汇集了古往今来的智慧传承，揭示了隐藏在神话、宗教与科学背后的普世真理，展现了一幅壮丽的宇宙图景。",
+    "description": "The generated-index page description for category 《秘密教義》第一卷 - 布拉瓦茨基 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義》筆記": {
+    "message": "《秘密教义》笔记",
+    "description": "The label for category 《秘密教義》筆記 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義》筆記.link.generated-index.description": {
+    "message": "这份笔记是对《秘密教义》的深入解读与补充，帮助读者更好地理解这部深奥的经典。它整理了书中的核心概念与难点，为深入研究神智学提供了宝贵的参考资料。",
+    "description": "The generated-index page description for category 《秘密教義》筆記 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《以諾書》及注釋": {
+    "message": "《以诺书》及注释",
+    "description": "The label for category 《以諾書》及注釋 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《以諾書》及注釋.link.generated-index.description": {
+    "message": "《以诺书》是一部古老的启示录文学，记载了以诺在天堂的异象与游历。本书不仅提供了原文的翻译，还附有详细的注释，解读了其中关于天使、审判与末世的神秘预言。",
+    "description": "The generated-index page description for category 《以諾書》及注釋 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《從先驅者到詩人》": {
+    "message": "《从先驱者到诗人》",
+    "description": "The label for category 《從先驅者到詩人》 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《從先驅者到詩人》.link.generated-index.description": {
+    "message": "这本书探讨了灵性进化过程中的不同阶段，从最初的探索者到最终的表达者。它分析了占星学与灵魂特质之间的关系，帮助读者理解自己的生命蓝图与灵性潜能。",
+    "description": "The generated-index page description for category 《從先驅者到詩人》 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.歐涅斯的《啟示錄》及注釋": {
+    "message": "欧涅斯的《启示录》及注释",
+    "description": "The label for category 歐涅斯的《啟示錄》及注釋 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.歐涅斯的《啟示錄》及注釋.link.generated-index.description": {
+    "message": "欧涅斯对《启示录》的独特解读，揭示了这部圣经最后一卷书中隐藏的神秘学含义。书中探讨了象征符号背后的灵性真理，为理解末世预言与人类命运提供了全新的视角。",
+    "description": "The generated-index page description for category 歐涅斯的《啟示錄》及注釋 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘傳教義導論》": {
+    "message": "《秘传教义导论》",
+    "description": "The label for category 《秘傳教義導論》 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘傳教義導論》.link.generated-index.description": {
+    "message": "作为秘传教义的入门读物，本书简明扼要地介绍了神秘学的基本概念与历史背景。它为初学者提供了一个清晰的框架，帮助他们建立起对古代智慧传承的整体认识。",
+    "description": "The generated-index page description for category 《秘傳教義導論》 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義闡釋》": {
+    "message": "《秘密教义阐释》",
+    "description": "The label for category 《秘密教義闡釋》 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義闡釋》.link.generated-index.description": {
+    "message": "本书进一步阐释了《秘密教义》中的深奥义理，针对其中的关键主题进行了详细的剖析与讨论。它是研读《秘密教义》的重要辅助读物，有助于读者更深入地领悟其中的智慧。",
+    "description": "The generated-index page description for category 《秘密教義闡釋》 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《薄伽梵歌》四講": {
+    "message": "《薄伽梵歌》四讲",
+    "description": "The label for category 《薄伽梵歌》四講 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《薄伽梵歌》四講.link.generated-index.description": {
+    "message": "舒巴罗对《薄伽梵歌》的精彩演讲集，以其深厚的印度哲学修养，从瑜伽、意识、本体与宇宙法则等角度，揭示《薄伽梵歌》蕴含的内在奥义。内容凝练而深邃，是理解克里希纳教诲与灵性道路的重要指引。",
+    "description": "The generated-index page description for category 《薄伽梵歌》四講 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《與開悟者同行:玫瑰十字會歷險記》弗朗茨·哈特曼": {
+    "message": "《与开悟者同行:玫瑰十字会历险记》弗朗茨·哈特曼",
+    "description": "The label for category 《與開悟者同行:玫瑰十字會歷險記》弗朗茨·哈特曼 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《與開悟者同行:玫瑰十字會歷險記》弗朗茨·哈特曼.link.generated-index.description": {
+    "message": "这是一部引人入胜的神秘学小说，记录了探求者与玫瑰十字会隐修大师的相遇。书中透过生动的对话与奇妙的经历，深入浅出地探讨了炼金术、轮回转世、心灵感应等奥秘，为渴望觉醒的灵魂提供宝贵的指引。",
+    "description": "The generated-index page description for category 《與開悟者同行:玫瑰十字會歷險記》弗朗茨·哈特曼 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《道路上的光》梅柏·柯林斯著": {
+    "message": "《道路上的光》梅柏·柯林斯著",
+    "description": "The label for category 《道路上的光》梅柏·柯林斯著 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《道路上的光》梅柏·柯林斯著.link.generated-index.description": {
+    "message": "这是一本为灵性探求者准备的实修指南。它以简练而深刻的格言，阐述了修行路上的法则与戒律，教导我们如何消除内心的杂念，培养坚定的意志，照亮通往真理与解脱的道路。",
+    "description": "The generated-index page description for category 《道路上的光》梅柏·柯林斯著 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《白蓮田園詩》梅柏·柯林斯": {
+    "message": "《白莲田园诗》梅柏·柯林斯",
+    "description": "The label for category 《白蓮田園詩》梅柏·柯林斯 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《白蓮田園詩》梅柏·柯林斯.link.generated-index.description": {
+    "message": "一部优美的灵性寓言，以古埃及为背景，讲述了年轻祭司在纯洁的白莲女神与黑暗势力之间的抉择。故事象征著灵魂在物质世界中的考验与觉醒，描绘了通往神圣智慧的艰辛而光荣的旅程。",
+    "description": "The generated-index page description for category 《白蓮田園詩》梅柏·柯林斯 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義第一卷》- 布拉瓦茨基": {
+    "message": "《秘密教义第一卷》- 布拉瓦茨基",
+    "description": "The label for category 《秘密教義第一卷》- 布拉瓦茨基 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《秘密教義第一卷》- 布拉瓦茨基.link.generated-index.description": {
+    "message": "海伦娜·布拉瓦茨基夫人的宏大著作，深入探索宇宙的起源与演化。书中汇集了古往今来的智慧传承，揭示了隐藏在神话、宗教与科学背后的普世真理，展现了一幅壮丽的宇宙图景。",
+    "description": "The generated-index page description for category 《秘密教義第一卷》- 布拉瓦茨基 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《薄伽梵歌四講》": {
+    "message": "《薄伽梵歌四讲》",
+    "description": "The label for category 《薄伽梵歌四講》 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.《薄伽梵歌四講》.link.generated-index.description": {
+    "message": "舒巴罗对《薄伽梵歌》的精彩演讲集，以其深厚的印度哲学修养，从瑜伽、意识、本体与宇宙法则等角度，揭示《薄伽梵歌》蕴含的内在奥义。内容凝练而深邃，是理解克里希纳教诲与灵性道路的重要指引。",
+    "description": "The generated-index page description for category 《薄伽梵歌四講》 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.線上書架": {
+    "message": "线上书架",
+    "description": "The label for category 線上書架 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.以諾書": {
+    "message": "以诺书",
+    "description": "The label for category 以諾書 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.克里希納的真實福音": {
+    "message": "克里希纳的真实福音",
+    "description": "The label for category 克里希納的真實福音 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.寂靜之聲": {
+    "message": "寂静之声",
+    "description": "The label for category 寂靜之聲 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.幻想交響曲": {
+    "message": "幻想交响曲",
+    "description": "The label for category 幻想交響曲 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.從先驅者到詩人": {
+    "message": "从先驱者到诗人",
+    "description": "The label for category 從先驅者到詩人 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.李文和的教誨": {
+    "message": "李文和的教诲",
+    "description": "The label for category 李文和的教誨 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.白蓮田園詩": {
+    "message": "白莲田园诗",
+    "description": "The label for category 白蓮田園詩 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.神聖智慧之鑰": {
+    "message": "神圣智慧之钥",
+    "description": "The label for category 神聖智慧之鑰 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.秘傳教義導論": {
+    "message": "秘传教义导论",
+    "description": "The label for category 秘傳教義導論 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.秘密教義第一卷": {
+    "message": "秘密教义第一卷",
+    "description": "The label for category 秘密教義第一卷 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.秘密教義闡釋": {
+    "message": "秘密教义阐释",
+    "description": "The label for category 秘密教義闡釋 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.與開悟者同行": {
+    "message": "与开悟者同行",
+    "description": "The label for category 與開悟者同行 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.道路上的光": {
+    "message": "道路上的光",
+    "description": "The label for category 道路上的光 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.金黃星": {
+    "message": "金黄星",
+    "description": "The label for category 金黃星 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.魯魯的尋求": {
+    "message": "鲁鲁的寻求",
+    "description": "The label for category 魯魯的尋求 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.doc.🏠 神秘學線上書架": {
+    "message": "🏠 神秘学线上书架",
+    "description": "The label for the doc item 🏠 神秘學線上書架 in sidebar booksSidebar, linking to the doc index"
+  },
+  "sidebar.booksSidebar.category.秘密教義筆記": {
+    "message": "秘密教义笔记",
+    "description": "The label for category 秘密教義筆記 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.薄伽梵歌四講": {
+    "message": "薄伽梵歌四讲",
+    "description": "The label for category 薄伽梵歌四講 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.以諾書及注釋": {
+    "message": "以诺书及注释",
+    "description": "The label for category 以諾書及注釋 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.歐涅斯的啟示錄及注釋": {
+    "message": "欧涅斯的启示录及注释",
+    "description": "The label for category 歐涅斯的啟示錄及注釋 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.羽翼法老": {
+    "message": "羽翼法老",
+    "description": "The label for category 羽翼法老 in sidebar booksSidebar"
+  },
+  "sidebar.booksSidebar.category.宇宙聖母": {
+    "message": "宇宙圣母",
+    "description": "The label for category 宇宙聖母 in sidebar booksSidebar"
+  }
+}

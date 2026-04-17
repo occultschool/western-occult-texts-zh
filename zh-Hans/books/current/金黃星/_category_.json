@@ -1,0 +1,11 @@
+{
+  "label": "《金黄星》米绍博士",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/golden_star.png"
+  }
+}

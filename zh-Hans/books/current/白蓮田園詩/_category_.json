@@ -1,0 +1,11 @@
+{
+  "label": "《白莲田园诗》梅柏·柯林斯",
+  "position": 9,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/lotus.jpg"
+  }
+}

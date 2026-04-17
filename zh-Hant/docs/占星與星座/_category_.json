@@ -1,0 +1,9 @@
+{
+  "label": "占星與星座",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "超越通俗的星座運勢，深入探討行星運行與靈魂演化的關聯。解讀星盤中的宇宙密碼，理解天體能量如何影響我們的生命藍圖。",
+    "slug": "/astrology-and-zodiac"
+  }
+}

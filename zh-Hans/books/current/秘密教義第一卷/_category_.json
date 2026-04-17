@@ -1,0 +1,11 @@
+{
+  "label": "《秘密教义第一卷》- 布拉瓦茨基",
+  "position": 11,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/SD.png"
+  }
+}

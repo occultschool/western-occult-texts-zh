@@ -1,0 +1,11 @@
+{
+  "label": "《秘密教义阐释》",
+  "position": 17,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/transaction.jpg"
+  }
+}

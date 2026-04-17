@@ -1,0 +1,11 @@
+{
+  "label": "《薄伽梵歌四讲》",
+  "position": 18,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/bhagavat.jpg"
+  }
+}

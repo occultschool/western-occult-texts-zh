@@ -1,0 +1,9 @@
+{
+  "label": "外文经典推荐",
+  "position": 18,
+  "link": {
+    "type": "generated-index",
+    "description": "严选西方神秘学领域的经典原著，为渴望深入钻研的读者提供指引。透过阅读大师的原始文本，直接汲取最纯粹的智慧源泉。",
+    "slug": "/category/foreign-classics"
+  }
+}

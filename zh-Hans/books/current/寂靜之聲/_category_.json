@@ -1,0 +1,11 @@
+{
+  "label": "《寂静之声》布拉瓦茨基",
+  "position": 6,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/voice.jpg"
+  }
+}

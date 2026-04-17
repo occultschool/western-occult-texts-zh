@@ -1,0 +1,11 @@
+{
+  "label": "《从先驱者到诗人》",
+  "position": 14,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/zodiac.jpg"
+  }
+}

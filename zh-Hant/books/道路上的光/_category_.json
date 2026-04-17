@@ -1,0 +1,11 @@
+{
+  "label": "《道路上的光》梅柏·柯林斯著",
+  "position": 8,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/path.jpg"
+  }
+}

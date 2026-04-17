@@ -1,0 +1,11 @@
+{
+  "label": "《鲁鲁的寻求》米绍博士",
+  "position": 3,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/ruru.jpg"
+  }
+}

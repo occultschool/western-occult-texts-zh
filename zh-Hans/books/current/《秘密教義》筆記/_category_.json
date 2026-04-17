@@ -1,0 +1,11 @@
+{
+  "label": "《秘密教义》笔记",
+  "position": 20,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/gleaning.png"
+  }
+}

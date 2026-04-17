@@ -1,0 +1,11 @@
+{
+  "label": "《与开悟者同行:玫瑰十字会历险记》弗朗茨·哈特曼",
+  "position": 1,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/rosicrusian.png"
+  }
+}

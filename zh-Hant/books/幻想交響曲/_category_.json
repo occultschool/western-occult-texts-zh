@@ -1,0 +1,11 @@
+{
+  "label": "《幻想交響曲》米紹博士",
+  "position": 5,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/symphonie.jpg"
+  }
+}

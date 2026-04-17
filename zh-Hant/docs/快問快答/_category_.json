@@ -1,0 +1,9 @@
+{
+  "label": "快問快答",
+  "position": 19,
+  "link": {
+    "type": "generated-index",
+    "description": "這裡匯集了最常見、最關鍵的問題與解答，作為快速入門與深入理解的知識索引。",
+    "slug": "/questions-and-answers"
+  }
+}

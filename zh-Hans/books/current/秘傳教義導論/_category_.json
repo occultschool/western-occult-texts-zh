@@ -1,0 +1,11 @@
+{
+  "label": "《秘传教义导论》",
+  "position": 16,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/esoteric_principle.png"
+  }
+}

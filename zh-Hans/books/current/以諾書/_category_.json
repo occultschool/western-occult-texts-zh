@@ -1,0 +1,11 @@
+{
+  "label": "《以诺书》及注释",
+  "position": 13,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/enoch.png"
+  }
+}

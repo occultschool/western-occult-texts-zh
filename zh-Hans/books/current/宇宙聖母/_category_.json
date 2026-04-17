@@ -1,0 +1,11 @@
+{
+  "label": "《宇宙圣母》赫尔墨斯残篇",
+  "position": 20,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/cosmic_mother.jpg"
+  }
+}

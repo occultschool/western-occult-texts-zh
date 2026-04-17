@@ -1,0 +1,11 @@
+{
+  "label": "《李文和的教誨》米紹博士",
+  "position": 4,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/lee.png"
+  }
+}

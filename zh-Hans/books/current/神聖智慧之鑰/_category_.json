@@ -1,0 +1,11 @@
+{
+  "label": "《神圣智慧之钥》布拉瓦茨基",
+  "position": 10,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "coverImage": "/cover/key.jpg"
+  }
+}

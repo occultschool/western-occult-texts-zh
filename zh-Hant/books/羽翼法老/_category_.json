@@ -1,0 +1,11 @@
+{
+    "label": "《羽翼法老》喬安·格蘭特",
+    "position": 19,
+    "link": {
+        "type": "doc",
+        "id": "index"
+    },
+    "customProps": {
+        "coverImage": "/cover/winged_pharaoh.jpg"
+    }
+}

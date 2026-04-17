@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use or reference this archive, please cite it as below."
+type: dataset
+title: "Western Occult Texts — Chinese Translation Archive (西方神秘學典籍中文譯庫)"
+authors:
+  - name: "OccultSchool (幽玄學堂)"
+abstract: >
+  A bilingual (Traditional and Simplified Chinese) archive of translated
+  Western esoteric texts and original commentary articles, covering
+  Theosophy, Hermeticism, Kabbalah, Rosicrucianism, Astrology, and
+  related spiritual traditions. Contains 20 fully translated books and
+  over 1,000 original articles across 18 thematic categories.
+  All files are UTF-8 encoded Markdown with structured YAML front-matter.
+keywords:
+  - chinese
+  - theosophy
+  - hermeticism
+  - kabbalah
+  - occultism
+  - blavatsky
+  - western-esotericism
+  - digital-humanities
+  - translation
+  - zh-hant
+  - zh-hans
+  - open-access
+license: CC-BY-SA-4.0
+version: "1.0.0"
+date-released: "2026-04-18"
+url: "https://github.com/occultschool/western-occult-texts-zh"
+repository-code: "https://github.com/occultschool/western-occult-texts-zh"
+languages:
+  - zh-Hant
+  - zh-Hans
