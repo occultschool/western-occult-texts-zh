@@ -2,19 +2,19 @@
 
 **Repository**: OccultSchool Texts — Chinese Archive  
 **Curator**: OccultSchool (神秘學講堂)  
-**Generated**: 2026-05-26T11:51:16  
+**Generated**: 2026-05-26T14:34:46  
 **Primary URL**: https://github.com/occultschool/western-occult-texts-zh  
-**Source Website Repository**: https://github.com/CoderSci/lightcoder
+**Source Website Repository**: https://github.com/occultschool/western-occult-texts-zh
 
 ## 保存副本
 
 | 平台 | URL / Identifier | 狀態 |
 | --- | --- | --- |
-| GitHub | https://github.com/occultschool/western-occult-texts-zh | planned |
-| Zenodo | pending | pending |
-| Internet Archive | pending | pending |
-| Software Heritage | pending | pending |
-| Hugging Face Datasets | pending | optional |
+| GitHub | https://github.com/occultschool/western-occult-texts-zh | active |
+| Zenodo | https://zenodo.org/records/19637071 / https://doi.org/10.5281/zenodo.19637071 | active |
+| Internet Archive | https://archive.org/details/western-occult-texts-zh | active |
+| Software Heritage | https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/occultschool/western-occult-texts-zh | active |
+| Hugging Face Datasets | https://huggingface.co/datasets/occultschool/western-occult-texts-zh | active |
 
 ## 完整性校驗
 

@@ -44,8 +44,8 @@
     "kind": "metadata",
     "language": null,
     "title": "數位保存記錄 / Digital Preservation Record",
-    "bytes": 1030,
-    "sha256": "78f4fdb450984697bcbe1993218ec949113eebedc690a8d8b9d4d0be4c8a6500"
+    "bytes": 1337,
+    "sha256": "bb21bfa337a987520a1d049e6f32bd469aab7d7e6d0fc34e15aaf27303e54f76"
   },
   {
     "path": "README.md",
@@ -53,7 +53,7 @@
     "language": null,
     "title": "OccultSchool Texts — Chinese Archive",
     "bytes": 2470,
-    "sha256": "cdf63754f625b687d19adcba6dec3f79bccaeb1028cf6b27725d0d0d202e640f"
+    "sha256": "4cf4d619e9a8c9f0061be55dc8b0688bdc496a0eb7c57600b9dcf8e173d11901"
   },
   {
     "path": "zh-Hans/articles/主题导读/占星与符号.md",

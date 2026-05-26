@@ -1,9 +1,9 @@
 {
   "name": "occultschool-texts",
   "title": "OccultSchool Texts — Chinese Archive",
-  "generatedAt": "2026-05-26T11:51:16",
+  "generatedAt": "2026-05-26T14:34:46",
   "repositoryUrl": "https://github.com/occultschool/western-occult-texts-zh",
-  "sourceRepositoryUrl": "https://github.com/CoderSci/lightcoder",
+  "sourceRepositoryUrl": "https://github.com/occultschool/western-occult-texts-zh",
   "transformations": [
     "frontmatter-stripped",
     "index-and-category-files-excluded",
