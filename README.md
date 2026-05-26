@@ -55,6 +55,6 @@ shasum -a 256 -c manifest.sha256
 This repository-style archive contains OccultSchool Chinese texts in Traditional Chinese and Simplified Chinese. It is generated for preservation and reuse, using UTF-8 Markdown, JSON metadata, SHA-256 checksums, and CC BY-SA 4.0 licensing.
 
 - Repository URL: https://github.com/occultschool/western-occult-texts-zh
-- Generated at: 2026-05-26T14:34:46
+- Generated at: 2026-05-26T14:55:57
 - Citation metadata: `CITATION.cff`
 - Preservation notes: `PRESERVATION.md`
