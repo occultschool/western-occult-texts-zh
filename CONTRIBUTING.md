@@ -1,64 +1,27 @@
-# Contributing to the Western Occult Texts Archive
+# 貢獻指南 / 贡献指南
 
-Thank you for your interest in contributing to this archive. This project aims to make Western esoteric wisdom accessible to Chinese-speaking readers — your help is deeply valued.
+本資料集以保存與校訂文本為主。歡迎提交：
 
-## What We Welcome
+- 錯字、標點、排版修正
+- 翻譯校訂與術語統一
+- 書籍或文章的來源補充
+- 典藏格式、索引、校驗與元資料改善
 
-- **Corrections**: Typos, mistranslations, or formatting errors in existing texts
-- **New translations**: Additional books or articles from the Western esoteric tradition
-- **Metadata improvements**: Better descriptions, keywords, or difficulty tags on existing files
-- **New article contributions**: Original commentary in the `docs/` categories
+## 格式要求
 
-## File Format Standards
+- 一律使用 UTF-8。
+- `zh-Hant/` 使用繁體中文，`zh-Hans/` 使用簡體中文。
+- 文章與書籍文字使用 Markdown。
+- 本典藏版本不使用 Docusaurus frontmatter。
+- 若新增一種語言版本，請盡量同步提供另一種中文版本。
 
-All files must follow this format to be accepted:
+## 提交流程
 
-### Filename Convention
-- Books: `NNN_章節標題.md` (e.g., `001_序言.md`, `002_第一章.md`)
-- Articles: descriptive kebab-case or Chinese names with no spaces
+1. Fork 此 repository。
+2. 建立分支並修改。
+3. 執行校驗：`shasum -a 256 -c manifest.sha256`。
+4. 提交 Pull Request，說明修改範圍與來源依據。
 
-### YAML Front-Matter (required for all files)
+## 授權
 
-```yaml
----
-sidebar_label: "顯示在側邊欄的短標題"
-title: "完整頁面標題 | 書名 作者"
-slug: /unique-url-slug
-description: "150字以內的摘要描述"
-keywords: ["關鍵詞1", "關鍵詞2", "關鍵詞3"]
-custom_tags: [標籤A, 標籤B]
-difficulty: "beginner" | "intermediate" | "advanced"
----
-```
-
-### Encoding
-- **Always UTF-8**. Do not save in GB2312, Big5, or any other encoding.
-- Use **Traditional Chinese** for `zh-Hant/` and **Simplified Chinese** for `zh-Hans/`
-
-### Dual-Script Requirement
-If you add content to one language directory, please provide the equivalent in the other directory as well (or note in your pull request that a translation is pending).
-
-## How to Contribute
-
-1. **Fork** this repository
-2. Create a new branch: `git checkout -b add/book-name` or `git checkout -b fix/issue-description`
-3. Make your changes following the file format standards above
-4. Submit a **Pull Request** with:
-   - What text was added/changed
-   - Source of the original text (with publication date if applicable)
-   - Confirmation that the source is in the public domain or CC-licensed
-
-## Source Text Guidelines
-
-For **book translations**, please include in your pull request:
-- The original title and author
-- Original publication year
-- Confirmation the work is in the public domain (generally: published before 1929, or explicitly CC-licensed)
-
-## Code of Conduct
-
-This archive exists to preserve and share knowledge. Contributors are expected to engage with respect and intellectual honesty. Discussion of the texts is welcome; personal attacks are not.
-
-## Questions?
-
-Open a GitHub Issue or start a Discussion thread.
+提交內容需能以 CC BY-SA 4.0 發布。若補充外部原文或譯文，請確認其公有領域或授權狀態。

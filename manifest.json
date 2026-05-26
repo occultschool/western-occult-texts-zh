@@ -1,0 +1,83 @@
+{
+  "name": "occultschool-texts",
+  "title": "OccultSchool Texts — Chinese Archive",
+  "generatedAt": "2026-05-26T11:51:16",
+  "repositoryUrl": "https://github.com/occultschool/western-occult-texts-zh",
+  "sourceRepositoryUrl": "https://github.com/CoderSci/lightcoder",
+  "transformations": [
+    "frontmatter-stripped",
+    "index-and-category-files-excluded",
+    "article-images-removed",
+    "book-images-preserved",
+    "ebooks-flattened",
+    "zh-Hans-paths-converted-to-simplified-chinese"
+  ],
+  "languages": {
+    "zh-Hant": {
+      "label": "繁體中文",
+      "articles": {
+        "source": "docs",
+        "files": 230,
+        "markdown_files": 230,
+        "frontmatter_stripped": 230,
+        "images_stripped": 331,
+        "other_files": 0
+      },
+      "books": {
+        "source": "books",
+        "texts": {
+          "files": 547,
+          "markdown_files": 547,
+          "frontmatter_stripped": 547,
+          "images_stripped": 0,
+          "other_files": 0
+        },
+        "assets": {
+          "referenced": 94,
+          "copied": 86,
+          "missing": [],
+          "skipped_inline_or_remote": 12
+        },
+        "ebooks": {
+          "files": 46,
+          "books": 23
+        }
+      }
+    },
+    "zh-Hans": {
+      "label": "简体中文",
+      "articles": {
+        "source": "i18n/zh-Hans/docusaurus-plugin-content-docs/current",
+        "files": 230,
+        "markdown_files": 230,
+        "frontmatter_stripped": 230,
+        "images_stripped": 331,
+        "other_files": 0
+      },
+      "books": {
+        "source": "i18n/zh-Hans/docusaurus-plugin-content-docs-books/current",
+        "texts": {
+          "files": 547,
+          "markdown_files": 547,
+          "frontmatter_stripped": 547,
+          "images_stripped": 0,
+          "other_files": 0
+        },
+        "assets": {
+          "referenced": 94,
+          "copied": 86,
+          "missing": [],
+          "skipped_inline_or_remote": 12
+        },
+        "ebooks": {
+          "files": 46,
+          "books": 23
+        }
+      }
+    }
+  },
+  "catalog": {
+    "files": 1825,
+    "path": "catalog.json"
+  }
+}

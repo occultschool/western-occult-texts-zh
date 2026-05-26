@@ -1,0 +1,24 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "Dataset",
+  "name": "OccultSchool Texts — Chinese Archive",
+  "description": "Bilingual Chinese archive of OccultSchool texts for preservation and research reuse.",
+  "license": "https://spdx.org/licenses/CC-BY-SA-4.0",
+  "datePublished": "2026-05-26",
+  "version": "1.0.0",
+  "url": "https://github.com/occultschool/western-occult-texts-zh",
+  "isBasedOn": "https://github.com/CoderSci/lightcoder",
+  "author": [
+    {
+      "@type": "Organization",
+      "name": "OccultSchool (神秘學講堂)"
+    }
+  ],
+  "programmingLanguage": "Markdown",
+  "encodingFormat": [
+    "text/markdown",
+    "application/json",
+    "application/epub+zip",
+    "application/pdf"
+  ]
+}

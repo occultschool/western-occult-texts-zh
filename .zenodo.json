@@ -1,0 +1,21 @@
+{
+  "title": "OccultSchool Texts — Chinese Archive (神秘學講堂文本典藏庫)",
+  "upload_type": "dataset",
+  "publication_date": "2026-05-26",
+  "creators": [
+    {
+      "name": "OccultSchool (神秘學講堂)"
+    }
+  ],
+  "description": "Chinese archive of OccultSchool articles, books, book assets, and ebooks.",
+  "license": "cc-by-sa-4.0",
+  "keywords": [
+    "occultism",
+    "theosophy",
+    "Chinese",
+    "zh-Hant",
+    "zh-Hans",
+    "digital humanities"
+  ],
+  "language": "zho"
+}

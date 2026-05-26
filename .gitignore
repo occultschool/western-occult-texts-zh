@@ -16,11 +16,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Node (if any tooling is added later)
-node_modules/
-npm-debug.log*
-
-# Python (if any tooling is added later)
+# Python
 __pycache__/
 *.py[cod]
 .env

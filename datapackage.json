@@ -1,0 +1,27 @@
+{
+  "profile": "data-package",
+  "name": "occultschool-texts",
+  "title": "OccultSchool Texts — Chinese Archive",
+  "description": "Chinese archive of OccultSchool articles, books, book assets, and ebooks.",
+  "licenses": [
+    {
+      "name": "CC-BY-SA-4.0",
+      "path": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "catalog",
+      "path": "catalog.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "checksums",
+      "path": "manifest.sha256",
+      "format": "sha256",
+      "mediatype": "text/plain"
+    }
+  ],
+  "fileCount": 1825
+}
