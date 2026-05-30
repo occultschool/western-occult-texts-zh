@@ -1,14 +1,16 @@
-# 目錄 / Index
+# 目录 / 目錄 / Index
 
-本文件由匯出程式自動生成，列出主要文章、書籍文字與電子書。
+本文件列出主要文章、书籍文字与电子书。
+
+繁體：本文件列出主要文章、書籍文字與電子書。
 
 ## 繁體中文 (zh-Hant)
 
-- Articles: 238
-- Book text files: 547
-- Ebook files: 46
+- Articles / 文章: 238
+- Book text files / 书籍文字 / 書籍文字: 547
+- Ebook files / 电子书 / 電子書: 46
 
-### Articles
+### Articles / 文章
 
 - [占星與符號導讀](zh-Hant/articles/主題導讀/占星與符號.md)
 - [卡巴拉與生命之樹導讀](zh-Hant/articles/主題導讀/卡巴拉與生命之樹.md)
@@ -249,7 +251,7 @@
 - [魔法召喚與神聖交流](zh-Hant/articles/魔法與靈視/魔法召喚與神聖交流.md)
 - [是魔法還是奇蹟？ — 魔法十大重點整理，人人皆是魔法師](zh-Hant/articles/魔法與靈視/魔法的十大重點整理.md)
 
-### Book Texts
+### Book Texts / 书籍文字 / 書籍文字
 
 - [02-第一章.md](zh-Hant/books/texts/《秘密教義》筆記/02-第一章.md)
 - [第二章](zh-Hant/books/texts/《秘密教義》筆記/03-第二章.md)
@@ -551,9 +553,9 @@
 - [第十三章：神聖智慧大師](zh-Hant/books/texts/神聖智慧之鑰/016_第十三章_神聖智慧大師.md)
 - [第十四章：總結](zh-Hant/books/texts/神聖智慧之鑰/017_第十四章_總結.md)
 - [詞彙表](zh-Hant/books/texts/神聖智慧之鑰/018_詞彙表.md)
-- ... 247 more entries listed in `catalog.json`
+- ... 其余 247 个条目列于 `catalog.json`
 
-### Ebooks
+### Ebooks / 电子书 / 電子書
 
 - [《以諾書》及注釋.epub](zh-Hant/books/ebooks/《以諾書》及注釋.epub)
 - [《以諾書》及注釋.pdf](zh-Hant/books/ebooks/《以諾書》及注釋.pdf)
@@ -604,11 +606,11 @@
 
 ## 简体中文 (zh-Hans)
 
-- Articles: 238
-- Book text files: 547
-- Ebook files: 46
+- Articles / 文章: 238
+- Book text files / 书籍文字 / 書籍文字: 547
+- Ebook files / 电子书 / 電子書: 46
 
-### Articles
+### Articles / 文章
 
 - [占星与符号导读](zh-Hans/articles/主题导读/占星与符号.md)
 - [卡巴拉与生命之树导读](zh-Hans/articles/主题导读/卡巴拉与生命之树.md)
@@ -849,7 +851,7 @@
 - [魔法召唤与神圣交流](zh-Hans/articles/魔法与灵视/魔法召唤与神圣交流.md)
 - [是魔法还是奇迹？ — 魔法十大重点整理，人人皆是魔法师](zh-Hans/articles/魔法与灵视/魔法的十大重点整理.md)
 
-### Book Texts
+### Book Texts / 书籍文字 / 書籍文字
 
 - [02-第一章.md](zh-Hans/books/texts/《秘密教义》笔记/02-第一章.md)
 - [第二章](zh-Hans/books/texts/《秘密教义》笔记/03-第二章.md)
@@ -1151,9 +1153,9 @@
 - [第三章](zh-Hans/books/texts/白莲田园诗/19-第二册第三章.md)
 - [第四章](zh-Hans/books/texts/白莲田园诗/20-第二册第四章.md)
 - [第五章](zh-Hans/books/texts/白莲田园诗/21-第二册第五章.md)
-- ... 247 more entries listed in `catalog.json`
+- ... 其余 247 个条目列于 `catalog.json`
 
-### Ebooks
+### Ebooks / 电子书 / 電子書
 
 - [《与开悟者同行：玫瑰十字会历险记》.epub](zh-Hans/books/ebooks/《与开悟者同行：玫瑰十字会历险记》.epub)
 - [《与开悟者同行：玫瑰十字会历险记》.pdf](zh-Hans/books/ebooks/《与开悟者同行：玫瑰十字会历险记》.pdf)

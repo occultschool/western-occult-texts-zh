@@ -20,16 +20,16 @@
     "kind": "metadata",
     "language": null,
     "title": null,
-    "bytes": 1007,
-    "sha256": "e0395985255cedef3b444353d223f8a45e3df4554d3f0425e2801d254ea83fd5"
+    "bytes": 1154,
+    "sha256": "a6a897ec4a511970cfb57436d9c0648f77a26c5a77bb82b5e8099c703fb79be1"
   },
   {
     "path": "CHANGELOG.md",
     "kind": "metadata",
     "language": null,
     "title": "Changelog",
-    "bytes": 369,
-    "sha256": "3aa12128667cc5be6ce8c62a1df0d5ca59f8ecb039177dc3d7b92ebeaf918f18"
+    "bytes": 514,
+    "sha256": "5fb05a1b53aa259c6e0bcd463f2c12d94b512fe53055185f092d1e773da8f546"
   },
   {
     "path": "CITATION.cff",
@@ -43,49 +43,49 @@
     "path": "CONTRIBUTING.md",
     "kind": "metadata",
     "language": null,
-    "title": "貢獻指南 / 贡献指南",
-    "bytes": 844,
-    "sha256": "d38e9beb05014f947f52661681ac7f6f83ae86e625b0382c7fae528433486b03"
+    "title": "贡献指南 / 貢獻指南",
+    "bytes": 2276,
+    "sha256": "8b99b2b511bf520cae62f4473dafa30cae1c323114769346d19658cdeffdd300"
   },
   {
     "path": "HOST_THIS_ARCHIVE.md",
     "kind": "metadata",
     "language": null,
-    "title": "如何接手並託管這份典藏庫",
-    "bytes": 1951,
-    "sha256": "a7ea6828ad2ff3d46e18bbc270d86db761dd058bef27cc2595f41e7d9fbbf974"
+    "title": "如何接手并托管这份典藏库 / 如何接手並託管這份典藏庫",
+    "bytes": 4460,
+    "sha256": "05aba098bd62bfdfa328ce19df41e990ae13182476187870f91a3055a3eb930b"
   },
   {
     "path": "LICENSE",
     "kind": "metadata",
     "language": null,
     "title": null,
-    "bytes": 751,
-    "sha256": "446af441c69ef1bfee23f1afe7145723191b7167d3e06498bf434cbdca3e1f6b"
+    "bytes": 1219,
+    "sha256": "6e9b9298af1a063a5a1746d1271050d35ef3f5387435e941e37734b26617211b"
   },
   {
     "path": "PRESERVATION.md",
     "kind": "metadata",
     "language": null,
-    "title": "數位保存記錄 / Digital Preservation Record",
-    "bytes": 1762,
-    "sha256": "b006423bd5bee4cb8a6f12d026c5e7d6f3dced058a1d1cf66248e85ad4cab0c5"
+    "title": "数字保存记录 / 數位保存記錄 / Digital Preservation Record",
+    "bytes": 2885,
+    "sha256": "5d6560833df7489d1d43dc37bdcabbeff80c5c6832127806d8498c3f8103b28c"
   },
   {
     "path": "README.md",
     "kind": "metadata",
     "language": null,
     "title": "OccultSchool Texts — Chinese Archive",
-    "bytes": 3243,
-    "sha256": "30b0fdc45d37beea13a78ec1858dfa9e7a81d79c27bf38aa223da7ec400477a8"
+    "bytes": 5715,
+    "sha256": "ffe5bb23096991a68bc9dbd87e98098b54b391d2e587ddc074195bc5c00a896a"
   },
   {
     "path": "index.html",
     "kind": "metadata",
     "language": null,
     "title": null,
-    "bytes": 1059,
-    "sha256": "a2218c3671d984cc7ffa42da423f2346f6fae810422b7406ff62ca41c3b25d91"
+    "bytes": 1179,
+    "sha256": "9588ad16792a8fa5c3868791ac5beb28a5d62dc94c928cec2c286885b16d01c0"
   },
   {
     "path": "zh-Hans/articles/主题导读/占星与符号.md",
