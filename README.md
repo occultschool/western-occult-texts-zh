@@ -104,6 +104,6 @@ This repository-style archive contains OccultSchool Chinese texts in Simplified 
 - Integrity manifest: `manifest.sha256`
 - Repository URL: https://github.com/occultschool/western-occult-texts-zh
 - Archive landing page: https://occultschool.org/archive/
-- Generated at: 2026-05-30T22:25:00
+- Generated at: 2026-05-30T22:46:04
 - Citation metadata: `CITATION.cff`
 - Preservation notes: `PRESERVATION.md`

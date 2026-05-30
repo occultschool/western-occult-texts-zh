@@ -46,8 +46,22 @@ a {
 }
 
 .brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
   font-weight: 700;
   text-decoration: none;
+}
+
+.brand-logo {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+}
+
+.brand-text {
+  line-height: 1.35;
 }
 
 .nav-links {
@@ -97,7 +111,8 @@ a {
 }
 
 .summary-box,
-.reader-section {
+.reader-section,
+.reader-group {
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--paper);
@@ -116,6 +131,37 @@ a {
 
 .reader-section {
   margin: 18px 0;
+}
+
+.reader-groups {
+  display: grid;
+  gap: 10px;
+}
+
+.reader-group {
+  padding: 0;
+  overflow: hidden;
+}
+
+.reader-group summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  cursor: pointer;
+  padding: 12px 14px;
+  font-weight: 700;
+}
+
+.reader-group[open] summary {
+  border-bottom: 1px solid var(--border);
+}
+
+.group-count {
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-weight: 400;
+  white-space: nowrap;
 }
 
 .language-grid {
@@ -144,6 +190,10 @@ a {
 .entry-list {
   columns: 2 320px;
   padding-left: 1.25rem;
+}
+
+.reader-group .entry-list {
+  margin: 12px 14px 14px;
 }
 
 .entry-list li {

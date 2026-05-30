@@ -69,7 +69,7 @@
     "language": null,
     "title": "数字保存记录 / 數位保存記錄 / Digital Preservation Record",
     "bytes": 2885,
-    "sha256": "5d6560833df7489d1d43dc37bdcabbeff80c5c6832127806d8498c3f8103b28c"
+    "sha256": "aabfa7a3743df4f1291a15f196251e78d047dc7c3de42951d4aff8cd8d15151e"
   },
   {
     "path": "README.md",
@@ -77,7 +77,7 @@
     "language": null,
     "title": "OccultSchool Texts — Chinese Archive",
     "bytes": 5715,
-    "sha256": "ffe5bb23096991a68bc9dbd87e98098b54b391d2e587ddc074195bc5c00a896a"
+    "sha256": "97edf12cde95dd133129fbfbb18e8ec0ef2e2102827c001ea854161d9d1355a4"
   },
   {
     "path": "index.html",
@@ -1140,8 +1140,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "灵魂是什么：从神秘学看「我是谁」、转世与生命延续",
-    "bytes": 12631,
-    "sha256": "1dac5903dcb6429dec11134c7fc525080ee08cac4c0f7275104c4cd10d0bc79c"
+    "bytes": 12628,
+    "sha256": "0c4b2ee91c96bac24cc8da6af9bba79b1aabe1057348c49fc7ddafeca436afce"
   },
   {
     "path": "zh-Hans/articles/快问快答/瑜伽指南.md",
@@ -8548,8 +8548,8 @@
     "kind": "article",
     "language": "zh-Hant",
     "title": "靈魂是什麼：從神秘學看「我是誰」、轉世與生命延續",
-    "bytes": 12631,
-    "sha256": "232f6f76d315dc82be95b0ac62b48eb4ac618693249d04b83db694ecfacaea74"
+    "bytes": 12628,
+    "sha256": "a11bb85f1c9be7f2f9c606dbca211469071558b1bb844261b472d467b2c8c9ec"
   },
   {
     "path": "zh-Hant/articles/快問快答/面對內在恐懼.md",

@@ -3,7 +3,7 @@
 **Repository**: OccultSchool Texts — Chinese Archive  
 **Curator**: OccultSchool (神秘学讲堂 / 神秘學講堂)
 
-**Generated**: 2026-05-30T22:25:00
+**Generated**: 2026-05-30T22:46:04
 
 **Primary URL**: https://github.com/occultschool/western-occult-texts-zh
 
