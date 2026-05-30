@@ -1,13 +1,13 @@
 {
   "title": "OccultSchool Texts — Chinese Archive (神秘學講堂文本典藏庫)",
   "upload_type": "dataset",
-  "publication_date": "2026-05-26",
+  "publication_date": "2026-05-30",
   "creators": [
     {
       "name": "OccultSchool (神秘學講堂)"
     }
   ],
-  "description": "Chinese archive of OccultSchool articles, books, book assets, and ebooks.",
+  "description": "Chinese living archive of OccultSchool articles, books, book assets, and ebooks. Some translations are still being completed or revised.",
   "license": "cc-by-sa-4.0",
   "keywords": [
     "occultism",

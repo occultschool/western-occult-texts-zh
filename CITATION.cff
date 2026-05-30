@@ -5,9 +5,10 @@ title: "OccultSchool Texts — Chinese Archive (神秘學講堂文本典藏庫)"
 authors:
   - name: "OccultSchool (神秘學講堂)"
 abstract: >
-  A bilingual Traditional and Simplified Chinese archive of OccultSchool
-  articles, translated books, book assets, and PDF/EPUB ebooks for long-term
-  preservation and research reuse.
+  A bilingual Traditional and Simplified Chinese living archive of
+  OccultSchool articles, translated books, book assets, and PDF/EPUB ebooks
+  for long-term preservation and research reuse. Some translations are still
+  being completed or revised; stable snapshots are preserved for citation.
 keywords:
   - chinese
   - occultism
@@ -20,7 +21,7 @@ keywords:
   - open-access
 license: CC-BY-SA-4.0
 version: "1.0.0"
-date-released: "2026-05-26"
+date-released: "2026-05-30"
 url: "https://github.com/occultschool/western-occult-texts-zh"
 repository-code: "https://github.com/occultschool/western-occult-texts-zh"
 languages:

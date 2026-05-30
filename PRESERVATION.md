@@ -2,9 +2,10 @@
 
 **Repository**: OccultSchool Texts — Chinese Archive  
 **Curator**: OccultSchool (神秘學講堂)  
-**Generated**: 2026-05-26T15:29:23  
+**Generated**: 2026-05-30T19:52:21  
 **Primary URL**: https://github.com/occultschool/western-occult-texts-zh  
-**Source Website Repository**: https://github.com/occultschool/western-occult-texts-zh
+**Archive Landing Page**: https://occultschool.org/archive/
+**Source Website Repository**: https://github.com/CoderSci/lightcoder
 
 ## 保存副本
 
@@ -25,6 +26,10 @@ shasum -a 256 -c manifest.sha256
 ```
 
 若任一檔案被破壞或遺失，校驗會顯示 `FAILED`。
+
+## 簡易閱讀器
+
+`index.html` 是可直接託管的典藏首頁，會導向 `reader/index.html`。若原網站無法維護，接手者可閱讀 `HOST_THIS_ARCHIVE.md`，將解壓後整個資料夾上傳到任意靜態主機。此閱讀器由 Markdown 自動生成，只是便利閱讀層；長期保存仍以 Markdown、PDF/EPUB、`catalog.json` 與 `manifest.sha256` 為準。
 
 ## 保存原則
 

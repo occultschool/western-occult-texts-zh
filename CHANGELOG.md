@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 - 2026-05-26
+## 1.0.0 - 2026-05-30
 
 - Initial generated archive release.
 - Exported Traditional Chinese and Simplified Chinese articles, books, book assets, and ebooks.

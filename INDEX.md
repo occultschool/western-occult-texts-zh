@@ -4,7 +4,7 @@
 
 ## 繁體中文 (zh-Hant)
 
-- Articles: 230
+- Articles: 238
 - Book text files: 547
 - Ebook files: 46
 
@@ -25,6 +25,9 @@
 - [亞特蘭蒂斯的書單](zh-Hant/articles/亞特蘭提斯學/亞特蘭蒂斯的書單.md)
 - [巨人的考古證據](zh-Hant/articles/亞特蘭提斯學/巨人的考古證據.md)
 - [巨人：事實還是幻想？](zh-Hant/articles/亞特蘭提斯學/巨人：事實還是幻想.md)
+- [弗朗茲・巴登](zh-Hant/articles/作者介紹/弗朗茲巴登.md)
+- [米紹博士](zh-Hant/articles/作者介紹/米紹博士.md)
+- [E. V. 肯尼利博士（Dr E. V. Kenealy，1819-1880）](zh-Hant/articles/作者介紹/肯尼利博士.md)
 - [內在的大師——如何找到自己的靈性？](zh-Hant/articles/修行問答/內在的大師如何找到自己的靈性.md)
 - [心智與靈性：思考在修行中的核心角色](zh-Hant/articles/修行問答/心智與靈性.md)
 - [為什麼要學習神秘科學？](zh-Hant/articles/修行問答/為什麼要學習神秘科學.md)
@@ -71,6 +74,7 @@
 - [德魯伊的智慧教導](zh-Hant/articles/哲學與真理/德魯伊的智慧教導.md)
 - [柏拉圖的「洞穴寓言」：幻象的本質](zh-Hant/articles/哲學與真理/柏拉圖的洞穴寓言：幻象的本質.md)
 - [《薄伽梵歌》四講 - 哲學與靈性啟示的交融](zh-Hant/articles/哲學與真理/神秘學選讀：薄伽梵歌四講.md)
+- [遍及萬物的愛：超越形體的永恆之光](zh-Hant/articles/哲學與真理/遍及萬物的愛.md)
 - [《以諾書》——上帝的第二位信使](zh-Hant/articles/外文經典推薦/《以諾書》上帝的第二位信使.md)
 - [一般性神秘學書籍推薦](zh-Hant/articles/外文經典推薦/一般性神祕學書籍推薦.md)
 - [互聯網神聖文獻寶庫：探索罕見神秘學與宗教經典](zh-Hant/articles/外文經典推薦/互聯網神聖文獻寶庫：探索罕見神秘學與宗教經典.md)
@@ -91,6 +95,7 @@
 - [物質為何重要？](zh-Hant/articles/宇宙奧秘/物質為何重要.md)
 - [神秘的以太](zh-Hant/articles/宇宙奧秘/神秘的以太.md)
 - [音樂的神秘力量：善惡與靈性](zh-Hant/articles/宇宙奧秘/音樂的神秘力量.md)
+- [《博伽梵歌》的本體與內在戰爭：布拉瓦茨基的洞見](zh-Hant/articles/宗教與神話/《博伽梵歌》的本體與內在戰爭.md)
 - [《薄伽梵歌》：神話寓言與靈性覺醒之旅](zh-Hant/articles/宗教與神話/《薄伽梵歌》神話寓言與靈性覺醒之旅.md)
 - [三相神：印度教的三位一體](zh-Hant/articles/宗教與神話/三相神：印度教的三位一體.md)
 - [基督的神秘本質：象徵性的靈性原則，而非具體存在](zh-Hant/articles/宗教與神話/基督的神秘本質：象徵性的靈性原則，而非具體存在.md)
@@ -164,7 +169,7 @@
 - [轉世的現象與證據](zh-Hant/articles/生死奧秘/關於轉世的現象和證據.md)
 - [通往光明之路](zh-Hant/articles/神秘學的十二堂課/1.通往光明之路.md)
 - [鍊金術入門](zh-Hant/articles/神秘學的十二堂課/10.鍊金術入門.md)
-- [神秘學學習和冥想](zh-Hant/articles/神秘學的十二堂課/11.神秘學學習和冥想.md)
+- [11.神秘學學習和冥想.md](zh-Hant/articles/神秘學的十二堂課/11.神秘學學習和冥想.md)
 - [靈魂](zh-Hant/articles/神秘學的十二堂課/12.靈魂.md)
 - [神秘學叢林](zh-Hant/articles/神秘學的十二堂課/2.神秘學叢林.md)
 - [因果報應的調查](zh-Hant/articles/神秘學的十二堂課/3.因果報應的調查.md)
@@ -191,6 +196,7 @@
 - [《李文和的教誨》](zh-Hant/articles/米紹博士專欄/3.書籍推薦：李文和的教誨.md)
 - [《幻想交響曲》](zh-Hant/articles/米紹博士專欄/4.神秘學選讀：米紹博士幻想交響曲.md)
 - [《克里希納的真實福音》](zh-Hant/articles/米紹博士專欄/5.神秘學書籍推薦：克里希納的真實福音.md)
+- [米紹博士的生平](zh-Hant/articles/米紹博士專欄/米紹博士生平與著作.md)
 - [精靈魔法：《精靈女王》故事介紹](zh-Hant/articles/靈性小說/01精靈女王故事介紹.md)
 - [精靈女王：米紹博士的神秘童話之旅](zh-Hant/articles/靈性小說/02精靈女王.md)
 - [冥想，或稱逃脫之道](zh-Hant/articles/靈性小說/冥想，或稱逃脫之道.md)
@@ -229,9 +235,11 @@
 - [吸引力法則的誘惑](zh-Hant/articles/魔法與靈視/吸引力法則的誘惑.md)
 - [四大元素精靈與花仙子— 靈視力的觀察紀錄](zh-Hant/articles/魔法與靈視/四大元素精靈與花仙子靈視力的觀察紀錄.md)
 - [巫術的危險](zh-Hant/articles/魔法與靈視/巫術的危險.md)
+- [弗朗茲・巴登的教誨與生平](zh-Hant/articles/魔法與靈視/弗朗茲巴登的教誨與生平.md)
 - [披著羊皮的黑魔法：「吸引力法則」與「性密宗」](zh-Hant/articles/魔法與靈視/披著羊皮的黑魔法：吸引力法則與性密宗.md)
 - [揭開自然精靈的面紗：精靈世界的真實與傳說](zh-Hant/articles/魔法與靈視/揭開自然神靈的神秘面紗：精靈世界的真實與傳說.md)
 - [揭開通靈與靈媒的危險：批判性思維下的真相](zh-Hant/articles/魔法與靈視/揭開通靈與靈媒的危險：批判性思維下的真相.md)
+- [旦利塞異象：星光界與地獄天堂的瀕死體驗](zh-Hant/articles/魔法與靈視/旦利塞異象.md)
 - [星光界下層與上層領域的一瞥](zh-Hant/articles/魔法與靈視/星光界下層與上層領域的一瞥.md)
 - [星光界場景 — 迷失的孩子](zh-Hant/articles/魔法與靈視/星光界場景迷失的孩子.md)
 - [煉金術碑文與事前準備](zh-Hant/articles/魔法與靈視/煉金術碑文與事前準備.md)
@@ -243,12 +251,12 @@
 
 ### Book Texts
 
-- [第一章](zh-Hant/books/texts/《秘密教義》筆記/02-第一章.md)
+- [02-第一章.md](zh-Hant/books/texts/《秘密教義》筆記/02-第一章.md)
 - [第二章](zh-Hant/books/texts/《秘密教義》筆記/03-第二章.md)
 - [第三章](zh-Hant/books/texts/《秘密教義》筆記/04-第三章.md)
-- [第四章](zh-Hant/books/texts/《秘密教義》筆記/05-第四章.md)
-- [第五章](zh-Hant/books/texts/《秘密教義》筆記/06-第五章.md)
-- [第六章](zh-Hant/books/texts/《秘密教義》筆記/07-第六章.md)
+- [05-第四章.md](zh-Hant/books/texts/《秘密教義》筆記/05-第四章.md)
+- [06-第五章.md](zh-Hant/books/texts/《秘密教義》筆記/06-第五章.md)
+- [07-第六章.md](zh-Hant/books/texts/《秘密教義》筆記/07-第六章.md)
 - [第七章](zh-Hant/books/texts/《秘密教義》筆記/08-第七章.md)
 - [目錄](zh-Hant/books/texts/《薄伽梵歌》四講/02-目錄.md)
 - [簡介](zh-Hant/books/texts/《薄伽梵歌》四講/03-簡介.md)
@@ -427,7 +435,7 @@
 - [揭開面紗](zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/02-揭開面紗.md)
 - [詞彙定義](zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/03-詞彙定義.md)
 - [摘要](zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/04-摘要.md)
-- [歐涅斯的《啟示錄》—上帝之言](zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/06-以諾的銘文.md)
+- [06-以諾的銘文.md](zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/06-以諾的銘文.md)
 - [1.](zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/07-1.md)
 - [2.](zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/08-2.md)
 - [3.](zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/09-3.md)
@@ -596,7 +604,7 @@
 
 ## 简体中文 (zh-Hans)
 
-- Articles: 230
+- Articles: 238
 - Book text files: 547
 - Ebook files: 46
 
@@ -617,6 +625,9 @@
 - [亚特兰蒂斯的回忆](zh-Hans/articles/亚特兰提斯学/亚特兰蒂斯的回忆.md)
 - [巨人的考古证据](zh-Hans/articles/亚特兰提斯学/巨人的考古证据.md)
 - [巨人：事实还是幻想？](zh-Hans/articles/亚特兰提斯学/巨人：事实还是幻想.md)
+- [弗朗兹・巴登](zh-Hans/articles/作者介绍/弗朗兹巴登.md)
+- [米绍博士](zh-Hans/articles/作者介绍/米绍博士.md)
+- [E. V. 肯尼利博士（Dr E. V. Kenealy，1819-1880）](zh-Hans/articles/作者介绍/肯尼利博士.md)
 - [为什么要学习神秘科学？](zh-Hans/articles/修行问答/为什么要学习神秘科学.md)
 - [内在的大师——如何找到自己的灵性？](zh-Hans/articles/修行问答/内在的大师如何找到自己的灵性.md)
 - [心智与灵性：思考在修行中的核心角色](zh-Hans/articles/修行问答/心智与灵性.md)
@@ -663,6 +674,7 @@
 - [德鲁伊的智慧教导](zh-Hans/articles/哲学与真理/德鲁伊的智慧教导.md)
 - [柏拉图的「洞穴寓言」：幻象的本质](zh-Hans/articles/哲学与真理/柏拉图的洞穴寓言：幻象的本质.md)
 - [《薄伽梵歌》四讲 - 哲学与灵性启示的交融](zh-Hans/articles/哲学与真理/神秘学选读：薄伽梵歌四讲.md)
+- [遍及万物的爱：超越形体的永恒之光](zh-Hans/articles/哲学与真理/遍及万物的爱.md)
 - [《以诺书》——上帝的第二位信使](zh-Hans/articles/外文经典推荐/《以诺书》上帝的第二位信使.md)
 - [一般性神秘学书籍推荐](zh-Hans/articles/外文经典推荐/一般性神秘学书籍推荐.md)
 - [互联网神圣文献宝库：探索罕见神秘学与宗教经典](zh-Hans/articles/外文经典推荐/互联网神圣文献宝库：探索罕见神秘学与宗教经典.md)
@@ -683,6 +695,7 @@
 - [物质为何重要？](zh-Hans/articles/宇宙奥秘/物质为何重要.md)
 - [神秘的以太](zh-Hans/articles/宇宙奥秘/神秘的以太.md)
 - [音乐的神秘力量：善恶与灵性](zh-Hans/articles/宇宙奥秘/音乐的神秘力量.md)
+- [《博伽梵歌》的本体与内在战争：布拉瓦茨基的洞见](zh-Hans/articles/宗教与神话/《博伽梵歌》的本体与内在战争.md)
 - [《薄伽梵歌》：神话寓言与灵性觉醒之旅](zh-Hans/articles/宗教与神话/《薄伽梵歌》神话寓言与灵性觉醒之旅.md)
 - [三相神：印度教的三位一体](zh-Hans/articles/宗教与神话/三相神：印度教的三位一体.md)
 - [从神圣文本中汲取智慧与启发](zh-Hans/articles/宗教与神话/从神圣文本中汲取智慧与启发.md)
@@ -767,7 +780,7 @@
 - [转世之谜：灵魂如何重生？](zh-Hans/articles/生死奥秘/转世之谜：灵魂如何重生.md)
 - [通往光明之路](zh-Hans/articles/神秘学的十二堂课/1.通往光明之路.md)
 - [炼金术入门](zh-Hans/articles/神秘学的十二堂课/10.炼金术入门.md)
-- [神秘学学习和冥想](zh-Hans/articles/神秘学的十二堂课/11.神秘学学习和冥想.md)
+- [11.神秘学学习和冥想.md](zh-Hans/articles/神秘学的十二堂课/11.神秘学学习和冥想.md)
 - [灵魂](zh-Hans/articles/神秘学的十二堂课/12.灵魂.md)
 - [神秘学丛林](zh-Hans/articles/神秘学的十二堂课/2.神秘学丛林.md)
 - [因果报应的调查](zh-Hans/articles/神秘学的十二堂课/3.因果报应的调查.md)
@@ -794,6 +807,7 @@
 - [《李文和的教诲》](zh-Hans/articles/米绍博士专栏/3.书籍推荐：李文和的教诲.md)
 - [《幻想交响曲》](zh-Hans/articles/米绍博士专栏/4.神秘学选读：米绍博士幻想交响曲.md)
 - [《克里希纳的真实福音》](zh-Hans/articles/米绍博士专栏/5.神秘学书籍推荐：克里希纳的真实福音.md)
+- [米绍博士的生平](zh-Hans/articles/米绍博士专栏/米绍博士生平与著作.md)
 - [七个神秘的阶序](zh-Hans/articles/高阶智慧/七个神秘的阶层.md)
 - [三个逻各斯](zh-Hans/articles/高阶智慧/三个逻各斯.md)
 - [人的七大组成原则——我们是什么？](zh-Hans/articles/高阶智慧/人的七大组成原则我们是什么.md)
@@ -821,9 +835,11 @@
 - [吸引力法则的诱惑](zh-Hans/articles/魔法与灵视/吸引力法则的诱惑.md)
 - [四大元素精灵与花仙子— 灵视力的观察纪录](zh-Hans/articles/魔法与灵视/四大元素精灵与花仙子灵视力的观察纪录.md)
 - [巫术的危险](zh-Hans/articles/魔法与灵视/巫术的危险.md)
+- [弗朗兹・巴登的教诲与生平](zh-Hans/articles/魔法与灵视/弗朗兹巴登的教诲与生平.md)
 - [披著羊皮的黑魔法：「吸引力法则」与「性密宗」](zh-Hans/articles/魔法与灵视/披著羊皮的黑魔法：吸引力法则与性密宗.md)
 - [揭开自然精灵的面纱：精灵世界的真实与传说](zh-Hans/articles/魔法与灵视/揭开自然神灵的神秘面纱：精灵世界的真实与传说.md)
 - [揭开通灵与灵媒的危险：批判性思维下的真相](zh-Hans/articles/魔法与灵视/揭开通灵与灵媒的危险：批判性思维下的真相.md)
+- [旦利塞异象：星光界与地狱天堂的濒死体验](zh-Hans/articles/魔法与灵视/旦利塞异象.md)
 - [星光界下层与上层领域的一瞥](zh-Hans/articles/魔法与灵视/星光界下层与上层领域的一瞥.md)
 - [星光界场景 — 迷失的孩子](zh-Hans/articles/魔法与灵视/星光界场景迷失的孩子.md)
 - [灵视力观察 — 黄金的创造过程](zh-Hans/articles/魔法与灵视/灵视力观察黄金的创造过程.md)
@@ -835,12 +851,12 @@
 
 ### Book Texts
 
-- [第一章](zh-Hans/books/texts/《秘密教义》笔记/02-第一章.md)
+- [02-第一章.md](zh-Hans/books/texts/《秘密教义》笔记/02-第一章.md)
 - [第二章](zh-Hans/books/texts/《秘密教义》笔记/03-第二章.md)
 - [第三章](zh-Hans/books/texts/《秘密教义》笔记/04-第三章.md)
-- [第四章](zh-Hans/books/texts/《秘密教义》笔记/05-第四章.md)
-- [第五章](zh-Hans/books/texts/《秘密教义》笔记/06-第五章.md)
-- [第六章](zh-Hans/books/texts/《秘密教义》笔记/07-第六章.md)
+- [05-第四章.md](zh-Hans/books/texts/《秘密教义》笔记/05-第四章.md)
+- [06-第五章.md](zh-Hans/books/texts/《秘密教义》笔记/06-第五章.md)
+- [07-第六章.md](zh-Hans/books/texts/《秘密教义》笔记/07-第六章.md)
 - [第七章](zh-Hans/books/texts/《秘密教义》笔记/08-第七章.md)
 - [目录](zh-Hans/books/texts/《薄伽梵歌》四讲/02-目录.md)
 - [简介](zh-Hans/books/texts/《薄伽梵歌》四讲/03-简介.md)
@@ -1043,7 +1059,7 @@
 - [揭开面纱](zh-Hans/books/texts/欧涅斯的《启示录》及注释/02-揭开面纱.md)
 - [词汇定义](zh-Hans/books/texts/欧涅斯的《启示录》及注释/03-词汇定义.md)
 - [摘要](zh-Hans/books/texts/欧涅斯的《启示录》及注释/04-摘要.md)
-- [欧涅斯的《启示录》—上帝之言](zh-Hans/books/texts/欧涅斯的《启示录》及注释/06-以诺的铭文.md)
+- [06-以诺的铭文.md](zh-Hans/books/texts/欧涅斯的《启示录》及注释/06-以诺的铭文.md)
 - [1.](zh-Hans/books/texts/欧涅斯的《启示录》及注释/07-1.md)
 - [2.](zh-Hans/books/texts/欧涅斯的《启示录》及注释/08-2.md)
 - [3.](zh-Hans/books/texts/欧涅斯的《启示录》及注释/09-3.md)

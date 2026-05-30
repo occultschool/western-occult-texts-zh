@@ -9,20 +9,23 @@
 
 ### 簡介
 
-本資料集是「神秘學講堂」（OccultSchool）的中文文本典藏庫，收錄網站文章、完整書籍譯文、書籍圖片資產與 PDF/EPUB 電子書。此版本以長期保存、再散佈與研究使用為目標，內容已整理為不依賴 Docusaurus 的純文字資料集。
+本資料集是「神秘學講堂」（OccultSchool）的中文文本典藏庫，收錄網站文章、書籍譯文、書籍圖片資產與 PDF/EPUB 電子書。此版本以長期保存、再散佈與研究使用為目標，內容已整理為不依賴 Docusaurus 的純文字資料集。部分譯文仍會隨新譯、校訂與術語統一持續更新。
 
 ### 內容結構
 
 | 目錄 | 說明 |
 | --- | --- |
-| `zh-Hant/articles/` | 繁體中文文章，共 230 篇 |
+| `zh-Hant/articles/` | 繁體中文文章，共 238 篇 |
 | `zh-Hant/books/texts/` | 繁體中文書籍 Markdown，共 547 個文字檔 |
 | `zh-Hant/books/assets/` | 繁體中文書籍引用圖片與封面 |
 | `zh-Hant/books/ebooks/` | 繁體中文 PDF/EPUB，共 46 個檔案 |
-| `zh-Hans/articles/` | 简体中文文章，共 230 篇 |
+| `zh-Hans/articles/` | 简体中文文章，共 238 篇 |
 | `zh-Hans/books/texts/` | 简体中文书籍 Markdown，共 547 个文字档 |
 | `zh-Hans/books/assets/` | 简体中文书籍引用图片与封面 |
 | `zh-Hans/books/ebooks/` | 简体中文 PDF/EPUB，共 46 个档案 |
+| `index.html` | 可直接託管的典藏首頁，會導向簡易閱讀器 |
+| `reader/index.html` | 可直接開啟或上傳到靜態主機的簡易 HTML 閱讀器 |
+| `HOST_THIS_ARCHIVE.md` | 給接手者的緊急託管說明 |
 
 ### 整理規則
 
@@ -31,6 +34,8 @@
 - `index.md` 與 `_category_.json` 不納入典藏文本。
 - `zh-Hans` 的資料夾與檔名已轉為簡體中文。
 - `manifest.sha256` 可用於完整性校驗，`catalog.json` 可供程式讀取。
+- `reader/index.html` 是由 Markdown 自動生成的便利閱讀層；Markdown 仍是保存用的主資料。
+- 若原網站無法維護，請閱讀 `HOST_THIS_ARCHIVE.md`，將解壓後整個資料夾上傳到任意靜態主機。
 
 ### 授權
 
@@ -40,7 +45,7 @@
 
 ## 简体中文
 
-本资料集是「神秘学讲堂」（OccultSchool）的中文文本典藏库，包含文章、完整书籍译文、书籍图片资产与 PDF/EPUB 电子书。本版本面向长期保存、研究与再发布，使用 UTF-8 Markdown 与开放资料格式。
+本资料集是「神秘学讲堂」（OccultSchool）的中文文本典藏库，包含文章、书籍译文、书籍图片资产与 PDF/EPUB 电子书。本版本面向长期保存、研究与再发布，使用 UTF-8 Markdown 与开放资料格式。部分译文仍会随新译、校订与术语统一持续更新。
 
 校验方式：
 
@@ -54,7 +59,11 @@ shasum -a 256 -c manifest.sha256
 
 This repository-style archive contains OccultSchool Chinese texts in Traditional Chinese and Simplified Chinese. It is generated for preservation and reuse, using UTF-8 Markdown, JSON metadata, SHA-256 checksums, and CC BY-SA 4.0 licensing.
 
+- Hostable emergency entry: `index.html`
+- Standalone reader: `reader/index.html`
+- Emergency hosting guide: `HOST_THIS_ARCHIVE.md`
 - Repository URL: https://github.com/occultschool/western-occult-texts-zh
-- Generated at: 2026-05-26T15:29:23
+- Archive landing page: https://occultschool.org/archive/
+- Generated at: 2026-05-30T19:52:21
 - Citation metadata: `CITATION.cff`
 - Preservation notes: `PRESERVATION.md`

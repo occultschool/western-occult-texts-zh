@@ -1,26 +1,28 @@
 {
   "name": "occultschool-texts",
   "title": "OccultSchool Texts — Chinese Archive",
-  "generatedAt": "2026-05-26T15:29:23",
+  "generatedAt": "2026-05-30T19:52:21",
   "repositoryUrl": "https://github.com/occultschool/western-occult-texts-zh",
-  "sourceRepositoryUrl": "https://github.com/occultschool/western-occult-texts-zh",
+  "sourceRepositoryUrl": "https://github.com/CoderSci/lightcoder",
   "transformations": [
     "frontmatter-stripped",
     "index-and-category-files-excluded",
     "article-images-removed",
     "book-images-preserved",
     "ebooks-flattened",
-    "zh-Hans-paths-converted-to-simplified-chinese"
+    "zh-Hans-paths-converted-to-simplified-chinese",
+    "standalone-html-reader-generated",
+    "hostable-static-export-entrypoints"
   ],
   "languages": {
     "zh-Hant": {
       "label": "繁體中文",
       "articles": {
         "source": "docs",
-        "files": 230,
-        "markdown_files": 230,
-        "frontmatter_stripped": 230,
-        "images_stripped": 331,
+        "files": 238,
+        "markdown_files": 238,
+        "frontmatter_stripped": 238,
+        "images_stripped": 342,
         "other_files": 0
       },
       "books": {
@@ -48,10 +50,10 @@
       "label": "简体中文",
       "articles": {
         "source": "i18n/zh-Hans/docusaurus-plugin-content-docs/current",
-        "files": 230,
-        "markdown_files": 230,
-        "frontmatter_stripped": 230,
-        "images_stripped": 331,
+        "files": 238,
+        "markdown_files": 238,
+        "frontmatter_stripped": 238,
+        "images_stripped": 342,
         "other_files": 0
       },
       "books": {
@@ -76,8 +78,13 @@
       }
     }
   },
+  "reader": {
+    "path": "reader/index.html",
+    "stylesheet": "reader/assets/archive.css",
+    "html_pages": 1570
+  },
   "catalog": {
-    "files": 1825,
+    "files": 1845,
     "path": "catalog.json"
   }
 }

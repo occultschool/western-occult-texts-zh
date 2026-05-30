@@ -8,20 +8,36 @@
     "sha256": "0e41729fe3701b66419166fdbc36b1542949cbca4831cd58624c59f0b5506c8e"
   },
   {
+    "path": ".nojekyll",
+    "kind": "metadata",
+    "language": null,
+    "title": null,
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "404.html",
+    "kind": "metadata",
+    "language": null,
+    "title": null,
+    "bytes": 1007,
+    "sha256": "e0395985255cedef3b444353d223f8a45e3df4554d3f0425e2801d254ea83fd5"
+  },
+  {
     "path": "CHANGELOG.md",
     "kind": "metadata",
     "language": null,
     "title": "Changelog",
     "bytes": 369,
-    "sha256": "614507708c557483208b567de296d76a850d2f5a6ffce6803d04698b1c536e3b"
+    "sha256": "3aa12128667cc5be6ce8c62a1df0d5ca59f8ecb039177dc3d7b92ebeaf918f18"
   },
   {
     "path": "CITATION.cff",
     "kind": "metadata",
     "language": null,
     "title": null,
-    "bytes": 822,
-    "sha256": "8bae8fff54a8803463d5108a0867a241b1ba0b9d5c0927a394187f90a7734d87"
+    "bytes": 932,
+    "sha256": "4d2d0426f67381a4f5c515b788acb37264ca6c3bb75b6690d6f8bdb4e7c0c8f5"
   },
   {
     "path": "CONTRIBUTING.md",
@@ -30,6 +46,14 @@
     "title": "貢獻指南 / 贡献指南",
     "bytes": 844,
     "sha256": "d38e9beb05014f947f52661681ac7f6f83ae86e625b0382c7fae528433486b03"
+  },
+  {
+    "path": "HOST_THIS_ARCHIVE.md",
+    "kind": "metadata",
+    "language": null,
+    "title": "如何接手並託管這份典藏庫",
+    "bytes": 1951,
+    "sha256": "a7ea6828ad2ff3d46e18bbc270d86db761dd058bef27cc2595f41e7d9fbbf974"
   },
   {
     "path": "LICENSE",
@@ -44,16 +68,24 @@
     "kind": "metadata",
     "language": null,
     "title": "數位保存記錄 / Digital Preservation Record",
-    "bytes": 1337,
-    "sha256": "64347524a39adb8d52d41d5eab9627b79ace202b766c6f0e8d4d68da754f74ac"
+    "bytes": 1762,
+    "sha256": "b006423bd5bee4cb8a6f12d026c5e7d6f3dced058a1d1cf66248e85ad4cab0c5"
   },
   {
     "path": "README.md",
     "kind": "metadata",
     "language": null,
     "title": "OccultSchool Texts — Chinese Archive",
-    "bytes": 2470,
-    "sha256": "ea04dbb4c985f3a69a7e942ab0aa661d2ee42de1acd3d67308531b9735d3ffcf"
+    "bytes": 3243,
+    "sha256": "30b0fdc45d37beea13a78ec1858dfa9e7a81d79c27bf38aa223da7ec400477a8"
+  },
+  {
+    "path": "index.html",
+    "kind": "metadata",
+    "language": null,
+    "title": null,
+    "bytes": 1059,
+    "sha256": "a2218c3671d984cc7ffa42da423f2346f6fae810422b7406ff62ca41c3b25d91"
   },
   {
     "path": "zh-Hans/articles/主题导读/占星与符号.md",
@@ -61,7 +93,7 @@
     "language": "zh-Hans",
     "title": "占星与符号导读",
     "bytes": 2215,
-    "sha256": "c018d8d8be52a8be10fd872e064bef10a34b0ee5051a6cec5747a4dc77cea530"
+    "sha256": "fec5a1ed7d1c3c6ed602d55f877f2df202c597e6812b269fcb8d65ba33d68fcb"
   },
   {
     "path": "zh-Hans/articles/主题导读/卡巴拉与生命之树.md",
@@ -69,7 +101,7 @@
     "language": "zh-Hans",
     "title": "卡巴拉与生命之树导读",
     "bytes": 1936,
-    "sha256": "239f27c9f679ac79e9ac7d2c55443d50ab5b898a816cf5d01adfa29fb93d7c6b"
+    "sha256": "32339e45f1072deecd68669f10478e63a32301ae37b708c07cabf7e8ceb75c2a"
   },
   {
     "path": "zh-Hans/articles/主题导读/塔罗占卜与象征阅读.md",
@@ -77,7 +109,7 @@
     "language": "zh-Hans",
     "title": "塔罗、占卜与象征阅读导读",
     "bytes": 1527,
-    "sha256": "ec058cd40071648cf65ae0e52249511c52c90016d1b3cfb61e342085f93dde23"
+    "sha256": "f2a339cb7f74a130f57f10301005a4d25a053b5982068ea319fc090999c732c9"
   },
   {
     "path": "zh-Hans/articles/主题导读/所罗门魔法与天使传统.md",
@@ -85,7 +117,7 @@
     "language": "zh-Hans",
     "title": "所罗门魔法与天使传统导读",
     "bytes": 1736,
-    "sha256": "81cab1727e77c4862792741cbdd5938478454f1d8cbb28e98f57a8992bc964eb"
+    "sha256": "f0a21058742523a3b32fcec5ffae92381904b7af9a1abad1b5847c87cbeaeb3b"
   },
   {
     "path": "zh-Hans/articles/主题导读/星光界幽冥界与香巴拉.md",
@@ -93,7 +125,7 @@
     "language": "zh-Hans",
     "title": "星光界、幽冥界与香巴拉导读",
     "bytes": 1431,
-    "sha256": "9ceef364968310b413f0c4383e40ca516a0a121db226e92d0186f9ff3eda9a24"
+    "sha256": "fa9077765dddccf650292091cfa377f316d0f3df8934f89b85af3f84081e6772"
   },
   {
     "path": "zh-Hans/articles/主题导读/死后世界与灵魂.md",
@@ -101,7 +133,7 @@
     "language": "zh-Hans",
     "title": "死后世界与灵魂导读",
     "bytes": 1954,
-    "sha256": "fb451121099d8c9528354d141f0a2e484d2c629ccf9a20ab402060db9e995e63"
+    "sha256": "1cacfdc6ea38fe71b98d1a11c9ae129a9b94ec7c9a074170d02b50e7c9f1be31"
   },
   {
     "path": "zh-Hans/articles/主题导读/神秘学入门.md",
@@ -109,7 +141,7 @@
     "language": "zh-Hans",
     "title": "神秘学入门导读",
     "bytes": 1995,
-    "sha256": "03090d2e1e05c50dcdf0154c5cad1cce1c2202294aa76e639852bb32c25f68dc"
+    "sha256": "47033b5fec70aa785f2cda70031e9ea6e8504fc27c20ac5c776230bcc8ae88f9"
   },
   {
     "path": "zh-Hans/articles/主题导读/轮回与业力.md",
@@ -117,7 +149,7 @@
     "language": "zh-Hans",
     "title": "轮回与业力导读",
     "bytes": 1843,
-    "sha256": "bee69cdf0fdf083b7c49abec50dfccc57917d194fd9467f43d3a0ff17a371c62"
+    "sha256": "9ed74306de27db0f53d0672a9abe5a1f16480162b467127f3e4edb4cadd33ea0"
   },
   {
     "path": "zh-Hans/articles/主题导读/阿兹特克与羽蛇神.md",
@@ -125,7 +157,7 @@
     "language": "zh-Hans",
     "title": "阿兹特克、羽蛇神与美洲神话导读",
     "bytes": 1870,
-    "sha256": "86806f5186623298c8cc33836d637f82a284dbd8643fb61ca4c3094382c1cdd2"
+    "sha256": "9d9d48a8ad349852ca978eba1a2aacc976d58a94a1c20173077d872557828cc9"
   },
   {
     "path": "zh-Hans/articles/主题导读/魔法显化与黑魔法辨识.md",
@@ -133,7 +165,7 @@
     "language": "zh-Hans",
     "title": "魔法、显化与黑魔法辨识导读",
     "bytes": 2014,
-    "sha256": "14efb3d1c1149cc94199262c860e058e1aa3b14bb7ce20a61f048156c7887b77"
+    "sha256": "af42060a9ebf9d74519d7f4febc89e6071f57345b895146229b53ff71fb5a58c"
   },
   {
     "path": "zh-Hans/articles/亚特兰提斯学/亚特兰蒂斯的书单.md",
@@ -149,7 +181,7 @@
     "language": "zh-Hans",
     "title": "亚特兰蒂斯的事实和幻想",
     "bytes": 30567,
-    "sha256": "f660a78a2aee7d5509f37e9cc294c8070f0005a6273d1bdb0a0c6fbfc8907f61"
+    "sha256": "8431c9dd43f2df705f04f1c58ca16e839285048c93cf5110fa559d38a88ae827"
   },
   {
     "path": "zh-Hans/articles/亚特兰提斯学/亚特兰蒂斯的回忆.md",
@@ -173,7 +205,31 @@
     "language": "zh-Hans",
     "title": "巨人：事实还是幻想？",
     "bytes": 19201,
-    "sha256": "cdcff78a62828771c5768e87e271a5953e07a6b74a1d55fab76ca7819f372d3b"
+    "sha256": "d9df0619dd406a46b833f5ddeb991a323ca80d5591173035c59a7f1b5bddfc2b"
+  },
+  {
+    "path": "zh-Hans/articles/作者介绍/弗朗兹巴登.md",
+    "kind": "article",
+    "language": "zh-Hans",
+    "title": "弗朗兹・巴登",
+    "bytes": 780,
+    "sha256": "5ed167969c7140a2b3d6cf5087c6e494e7e7d0d96f67d96a45d63753cc88f568"
+  },
+  {
+    "path": "zh-Hans/articles/作者介绍/米绍博士.md",
+    "kind": "article",
+    "language": "zh-Hans",
+    "title": "米绍博士",
+    "bytes": 920,
+    "sha256": "bdc590d6f0bf454704d170dbc7c7c5ddbc6fbbcab3250648929430c866fd85f2"
+  },
+  {
+    "path": "zh-Hans/articles/作者介绍/肯尼利博士.md",
+    "kind": "article",
+    "language": "zh-Hans",
+    "title": "E. V. 肯尼利博士（Dr E. V. Kenealy，1819-1880）",
+    "bytes": 6626,
+    "sha256": "7e9de6ddda1c62b1492d0fa8449651aac1d294adac1dfa5e25ce09a5aaeaa003"
   },
   {
     "path": "zh-Hans/articles/修行问答/为什么要学习神秘科学.md",
@@ -181,7 +237,7 @@
     "language": "zh-Hans",
     "title": "为什么要学习神秘科学？",
     "bytes": 14105,
-    "sha256": "ef030735d5af0cbd8a7e576d65e4512cc5289dc5f8c6cf801f9c7ab77946207d"
+    "sha256": "45602148a83c6463c8f88448c87c8408a203c77fd29949ae63e547badf6a5c7f"
   },
   {
     "path": "zh-Hans/articles/修行问答/内在的大师如何找到自己的灵性.md",
@@ -204,8 +260,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "真正的大师在哪里？",
-    "bytes": 3218,
-    "sha256": "39e2f583edc6f2a8ced0d87cb9278c6f5698909543d8d9fc9581c43cf0bfafc9"
+    "bytes": 3226,
+    "sha256": "1e6571ed9a26b8a0f3f1fc77ee38eef2b9871d4c8ad8b38c1f57b33bcc7b61aa"
   },
   {
     "path": "zh-Hans/articles/修行问答/神秘学寻道指南.md",
@@ -228,40 +284,40 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "给神秘学学生的提示与建议",
-    "bytes": 19111,
-    "sha256": "64e414c3988d98f4ee2d928af5665f8b30d6157769cb0a6297122a6fbc080ce5"
+    "bytes": 19135,
+    "sha256": "524fed2b541b42d332235efd22d49e57394e5ee8112ae899ee9f890f1d2d7634"
   },
   {
     "path": "zh-Hans/articles/修行问答/讲堂问答（1）：神秘学老师和教导.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "讲堂问答（1）：神秘学老师和教导",
-    "bytes": 17574,
-    "sha256": "e1598a86748ddba5a85d53502eca89db76dc18d0f60e546c6afc2f107d762207"
+    "bytes": 17590,
+    "sha256": "42885757cf4ed207e95dbdfb08c5820096a2894439805cf87c08c7f34cda6339"
   },
   {
     "path": "zh-Hans/articles/修行问答/讲堂问答（2）：什么是神秘学.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "讲堂问答（2）：什么是神秘学？",
-    "bytes": 6554,
-    "sha256": "551f5e4cc3c7ee06f82abc83b685189162a31f050e30830d11cf1583f2cdab22"
+    "bytes": 6570,
+    "sha256": "9272b6cd5f961394e814e565e77dfbf5031feb1ad7b21aa233dd37ebcaa8439a"
   },
   {
     "path": "zh-Hans/articles/修行问答/讲堂问答（3）：黑魔法知识的保密.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "讲堂问答（3）：黑魔法、知识的保密",
-    "bytes": 8192,
-    "sha256": "46cb0cf3afcec3b962c17e554ce84625b3e392d13888186aade8ddceb997a248"
+    "bytes": 8224,
+    "sha256": "4d1c23df90ac59948bba275ff5417c6e2fce77424da2fbe8271dd13724ff484a"
   },
   {
     "path": "zh-Hans/articles/修行问答/讲堂问答（4）：神秘学、致富、书籍、罪.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "讲堂问答（四）：神秘学、致富、书籍、罪",
-    "bytes": 8304,
-    "sha256": "5486dbbf9a29165c954a16e120dba61c6a36faf12abe5fa4373b1061e4a74e7c"
+    "bytes": 8312,
+    "sha256": "acbf6342502f771888eb85b9bc0ae43a8bddcd4cffa4dc97c0f9238213e7d98a"
   },
   {
     "path": "zh-Hans/articles/修行问答/讲堂问答（5）：祈祷、UFO、颂钵.md",
@@ -276,16 +332,16 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "讲堂问答（六）：阴谋论、外星人、星光界",
-    "bytes": 15536,
-    "sha256": "2a1bf9e997797c909bfef88bde9c7c509f7061469edef4a86138a528cc6add99"
+    "bytes": 15568,
+    "sha256": "f2349c003010be7b1e2159de591dd24f202c69c2d0ff219bbad88b6efb50e81e"
   },
   {
     "path": "zh-Hans/articles/修行问答/讲堂问答（7）：魔法素食玩乐.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "讲堂问答（7）: 魔法、素食、玩乐",
-    "bytes": 8463,
-    "sha256": "dccf09c93bf4691bc3b86cb322a7ba68d2d053f368919b3dae6c2f2d54e4e99e"
+    "bytes": 8487,
+    "sha256": "f398f1afecc0c16cc45d5ed899826a4aea3b02ce6e0066800ab35d98ab7e8e0e"
   },
   {
     "path": "zh-Hans/articles/修行问答/身体、心智、灵魂、灵的真正含义是什么-小我高我对照.md",
@@ -332,8 +388,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "掌握内在平静：高我与小我的修行之路",
-    "bytes": 16567,
-    "sha256": "c3c5a8ba03a8ebc03fa6caa72ac8d7d2b2add373e6dd42e15c6397c036bfaba0"
+    "bytes": 16575,
+    "sha256": "fa3a44813c9d5402c81b51d713476c3a22bc6d15638a10e821b8edb1f9d6904b"
   },
   {
     "path": "zh-Hans/articles/占星与星座/十二星座的奥秘.md",
@@ -348,8 +404,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "占星术的技艺与科学",
-    "bytes": 20755,
-    "sha256": "cd3ed3a265f7a925442468ac76729c9e4933360d4e586c106292dde5665a5070"
+    "bytes": 20771,
+    "sha256": "3048dae2cfdb9b1cc7a58c67fa44f47e02cb39d74666ad0a288493ead7dfe45a"
   },
   {
     "path": "zh-Hans/articles/占星与星座/占星术的诅咒和祝福.md",
@@ -452,8 +508,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "新书推荐：《从先驱者到诗人》十二星座分析",
-    "bytes": 3675,
-    "sha256": "f3da1918c7cbfb8b5484aeaaeb5e27dc11cdb69c1161fa4dc98dd4598caa8664"
+    "bytes": 3691,
+    "sha256": "f3f3b6733157c3c6fd7d85b8c5c171972db139bd61ab5dad0af03dcf60f63b82"
   },
   {
     "path": "zh-Hans/articles/占星与星座/星空神秘学：天蝎座.md",
@@ -492,8 +548,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "先有鸡还是先有蛋？",
-    "bytes": 10147,
-    "sha256": "8f0dd3417ea36a79ee11b71efc135593af1e5176b322ef0c0839bd435823bd0f"
+    "bytes": 10155,
+    "sha256": "074e68a720f222a9d6fce07eb0bea454b9502d602f1d9c516846db9b9e534693"
   },
   {
     "path": "zh-Hans/articles/哲学与真理/古埃及赫尔墨斯哲学.md",
@@ -501,7 +557,7 @@
     "language": "zh-Hans",
     "title": "古埃及赫尔墨斯哲学",
     "bytes": 10533,
-    "sha256": "5edf681e62c5abb80c1809c0634693eaadcd21857dc9681b3948e4774e335697"
+    "sha256": "2817b436bf483efd49090a32594fd7e03f83d887e84610b33a60e3c96ae50a66"
   },
   {
     "path": "zh-Hans/articles/哲学与真理/命运与自由意志.md",
@@ -517,15 +573,15 @@
     "language": "zh-Hans",
     "title": "宇宙蛋",
     "bytes": 5623,
-    "sha256": "b3a1a2903d94f9489cbe51ab77980c58c0d29d8dc1c00506a99ef73cfc0247fe"
+    "sha256": "b91e4339bf65fda9cc47d149af702e89ee17b03f76edb1c8b4f479ff318c0599"
   },
   {
     "path": "zh-Hans/articles/哲学与真理/德鲁伊的智慧教导.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "德鲁伊的智慧教导",
-    "bytes": 19648,
-    "sha256": "ca264cf7fb2729621eb800da45e4547a800777c055b852863af2e6aa4b800f22"
+    "bytes": 19656,
+    "sha256": "4e0a44c4f81abd26080a400c2c549a02bdc7fecd6d913d48b8180259cc721115"
   },
   {
     "path": "zh-Hans/articles/哲学与真理/柏拉图的洞穴寓言：幻象的本质.md",
@@ -540,16 +596,24 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "《薄伽梵歌》四讲 - 哲学与灵性启示的交融",
-    "bytes": 11163,
-    "sha256": "510b312263c0691a93a49b269f27bd62b0fb5b4caa33bbc2835430cc9d07a402"
+    "bytes": 11179,
+    "sha256": "fd15d9e97308112e0a2f2bf903bfc70513df6ae82c2c6997d158269ee2503d3f"
+  },
+  {
+    "path": "zh-Hans/articles/哲学与真理/遍及万物的爱.md",
+    "kind": "article",
+    "language": "zh-Hans",
+    "title": "遍及万物的爱：超越形体的永恒之光",
+    "bytes": 3088,
+    "sha256": "4f284179ec64c41896471e5fd8900455a585a118f6270ed54de857a61ef4e650"
   },
   {
     "path": "zh-Hans/articles/外文经典推荐/《以诺书》上帝的第二位信使.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《以诺书》——上帝的第二位信使",
-    "bytes": 3678,
-    "sha256": "0b62b594fdfec911119fb3164a5d0547556f418b07544ecefbc45ce0dee19ddb"
+    "bytes": 3694,
+    "sha256": "89e7002cd1a5b634aacad7ce3697fc99a92c8616be97cc7da9a05169762a5344"
   },
   {
     "path": "zh-Hans/articles/外文经典推荐/一般性神秘学书籍推荐.md",
@@ -557,7 +621,7 @@
     "language": "zh-Hans",
     "title": "一般性神秘学书籍推荐",
     "bytes": 21833,
-    "sha256": "c22c83219315374df6fe4d6f8ca5753ebf578bc8868eae49c8f3c43bf2a6a70a"
+    "sha256": "e5d9c252bad680b7d5ad77b564a81fc0abc5d1786797ac0bb0b523bbfb2fc935"
   },
   {
     "path": "zh-Hans/articles/外文经典推荐/互联网神圣文献宝库：探索罕见神秘学与宗教经典.md",
@@ -565,7 +629,7 @@
     "language": "zh-Hans",
     "title": "互联网神圣文献宝库：探索罕见神秘学与宗教经典",
     "bytes": 4986,
-    "sha256": "2287ff67839318f35a3f6b1ec9aade55222307e6ccefb342280e67d053e44f92"
+    "sha256": "733e9f9a5cc5f4d446efbab7728ede8435bc8ddcfb658c60bfcf2bdef95ca310"
   },
   {
     "path": "zh-Hans/articles/宇宙奥秘/1.电磁医学的历史与现代应用.md",
@@ -620,8 +684,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "启悟者与启悟",
-    "bytes": 18619,
-    "sha256": "b2163a1b7b7c3aee05c7a2bcf70913e7c80a40e53831025377e57cb9632468b5"
+    "bytes": 18627,
+    "sha256": "6193770e6e54bff489b919a7977ae4af6b2beba09f485ca1a49be11e3c2b6c1d"
   },
   {
     "path": "zh-Hans/articles/宇宙奥秘/宇宙意识.md",
@@ -637,7 +701,7 @@
     "language": "zh-Hans",
     "title": "巨石阵之谜",
     "bytes": 18633,
-    "sha256": "755dec49a8b79b5816cddcb3b04ca06dec1dde6b226042787f43a8f4653b5266"
+    "sha256": "016353a9d8bf2c0edc642f707d1798242c3400ff1d84c65973d039833860617c"
   },
   {
     "path": "zh-Hans/articles/宇宙奥秘/揭开太阳的神秘面纱：科学与神秘学的对话.md",
@@ -645,7 +709,7 @@
     "language": "zh-Hans",
     "title": "揭开太阳的神秘面纱：科学与神秘学的对话",
     "bytes": 18231,
-    "sha256": "052244ec90185afd07a12958a74bf4de1240e43de5c1a1981fe922367c72a61c"
+    "sha256": "c7a1301b39fdc8386c84feee7f1775120a7c52466b4295eada2c678142b7d0e8"
   },
   {
     "path": "zh-Hans/articles/宇宙奥秘/来自水的讯息.md",
@@ -669,7 +733,7 @@
     "language": "zh-Hans",
     "title": "永恒的生命灵药：探索古代神秘药剂的起源与象征",
     "bytes": 27456,
-    "sha256": "f12872254f3b34ec49764264effd78cacb792c4507ea74646a3dc8250eae883f"
+    "sha256": "e127f5c94f8b2b5517dc6eac7fb5cbf6a11525011180b9d4d928d2a159010380"
   },
   {
     "path": "zh-Hans/articles/宇宙奥秘/爱的奥秘：揭示情感的真相与深度.md",
@@ -677,7 +741,7 @@
     "language": "zh-Hans",
     "title": "爱的奥秘：揭示情感的真相与深度",
     "bytes": 21630,
-    "sha256": "ae705981300e0dfecc7ff8b393e7f6f0399640fe4d568a2b5b04fb4acc3057a3"
+    "sha256": "379fe6afea879fcec0d338f5b6e50eb6e4d88ac0da3f29ae5869983dda394eb2"
   },
   {
     "path": "zh-Hans/articles/宇宙奥秘/物质为何重要.md",
@@ -685,15 +749,15 @@
     "language": "zh-Hans",
     "title": "物质为何重要？",
     "bytes": 23530,
-    "sha256": "ff3ed075626448d833c0e5f0e9d4adcde316d635b0dec705e62383da6d238531"
+    "sha256": "f2b1659fee1d666db47f15935e443a4464d97edb9aea5e4a3f98fc33dbc3beb8"
   },
   {
     "path": "zh-Hans/articles/宇宙奥秘/神秘的以太.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "神秘的以太",
-    "bytes": 18599,
-    "sha256": "cca8e26a078c51b309597f87464643bd732a8b2b33939e06a4866e751b96512f"
+    "bytes": 18607,
+    "sha256": "409be2620e893e9d585e4e4c5382f2e2af0f645eac5f11c412e99a061af3ad4a"
   },
   {
     "path": "zh-Hans/articles/宇宙奥秘/音乐的神秘力量.md",
@@ -702,6 +766,14 @@
     "title": "音乐的神秘力量：善恶与灵性",
     "bytes": 31387,
     "sha256": "fcfd84a19e86077457f9b6aeeae49d26190c1072ca564d48e78f59ac1e1d4a0f"
+  },
+  {
+    "path": "zh-Hans/articles/宗教与神话/《博伽梵歌》的本体与内在战争.md",
+    "kind": "article",
+    "language": "zh-Hans",
+    "title": "《博伽梵歌》的本体与内在战争：布拉瓦茨基的洞见",
+    "bytes": 11935,
+    "sha256": "c109793691baa7ed6c39a8c60b1d6ddc908ccf4f48ef40411ac2a27e57baf474"
   },
   {
     "path": "zh-Hans/articles/宗教与神话/《薄伽梵歌》神话寓言与灵性觉醒之旅.md",
@@ -725,7 +797,7 @@
     "language": "zh-Hans",
     "title": "从神圣文本中汲取智慧与启发",
     "bytes": 20478,
-    "sha256": "b03f254f28a19ea632c90ae91e679d4f818568c25e06925b4d2d3efdbd69af3c"
+    "sha256": "b84a07cefa191f278f9d1e1536623dab4a12e6a6fe798e8b8c686622bb51f514"
   },
   {
     "path": "zh-Hans/articles/宗教与神话/关于印度教的一些问答.md",
@@ -765,7 +837,7 @@
     "language": "zh-Hans",
     "title": "揭开诡诈文本与真理迷思",
     "bytes": 9491,
-    "sha256": "81924c68df83a03a394b1ab5a32febff9eb1faba743f029186e88ae42dc9a8c2"
+    "sha256": "1a32d3fb2b7fce6aa0a93638ed50401d0cc19bb316161462c6a619385a557ed4"
   },
   {
     "path": "zh-Hans/articles/宗教与神话/揭示三宝的深奥哲学：佛、法、僧的真实意义.md",
@@ -797,7 +869,7 @@
     "language": "zh-Hans",
     "title": "探索《阿维斯陀》的奥秘",
     "bytes": 11296,
-    "sha256": "bb9e9454e97966b83b23da0501da118f202a56695402d1f312b6c194ed007c43"
+    "sha256": "64e71b0c0eec49585a7ebcb49cdc1ecd7dbf944f5c5bf5992fd4b58adb9fd167"
   },
   {
     "path": "zh-Hans/articles/宗教与神话/约翰福音启蒙寓言.md",
@@ -836,64 +908,64 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "《阿维斯陀》：揭开琐罗亚斯德教的神圣法则与隐藏真理",
-    "bytes": 28228,
-    "sha256": "79218e7d74e3db8a1bb52fb8d0e2462a133b534ce5c93658252401e07fd6c02f"
+    "bytes": 28244,
+    "sha256": "8c18eb1b008a162287d22b4b5acb0fac5b49968b739c7264f0c870dc8c5dffc4"
   },
   {
     "path": "zh-Hans/articles/布拉瓦茨基著作/寂静之声、揭开伊西斯的面纱-布拉瓦茨基著.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《寂静之声》、《揭开伊西斯的面纱》- 布拉瓦茨基著",
-    "bytes": 4444,
-    "sha256": "626892e93dbbcf5b4a6f31211d1a4002fb38262284fbcbf17cadd92216aad184"
+    "bytes": 4460,
+    "sha256": "5d087cd649695479630102595a4a52f0402bd2939e2b0b5dc9ec54bf0cf69539"
   },
   {
     "path": "zh-Hans/articles/布拉瓦茨基著作/布拉瓦茨基书籍推荐：神圣智慧之钥电子书.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《神圣智慧之钥》电子书",
-    "bytes": 4449,
-    "sha256": "a026804f6305e04a88b8a04e47ae32a5d1da80bd8b88329f069dcc51242a86fd"
+    "bytes": 4465,
+    "sha256": "aab4be918209738bb2cb582a71f5327baddea3c80eaf8ae74668d9be9f250fb3"
   },
   {
     "path": "zh-Hans/articles/布拉瓦茨基著作/白莲的田园诗书中含义释义.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《白莲的田园诗》释义",
-    "bytes": 17667,
-    "sha256": "7b39ebc1496a632bd7fd972cb8602770b34ab91326607187ac1ad77937ab541f"
+    "bytes": 17683,
+    "sha256": "e2a924cad2cf670bea0c933ecb19bf8ba1cb58b90ee667e699915da726957a18"
   },
   {
     "path": "zh-Hans/articles/布拉瓦茨基著作/秘传教义导论.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《秘传教义导论》",
-    "bytes": 9572,
-    "sha256": "5b87ef1a2d1d77db731da57ad4d59803b588d722c0186b5792df42418a21515f"
+    "bytes": 9588,
+    "sha256": "a16199b56b3cb10d7ca0e0c44d65abd5f762423eafb2e892ebdc8a0d17903dc5"
   },
   {
     "path": "zh-Hans/articles/布拉瓦茨基著作/秘密教义.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《秘密教义》（中文版链结）",
-    "bytes": 8194,
-    "sha256": "8a6c3efcb31df7b0579ce8f3c1274c201dccefda1f727fa17b4652ddd36bd8f3"
+    "bytes": 8210,
+    "sha256": "e78ab821fcc0d9cd8d3ecdf06ddd5212f6edc6554c684c8060194603c1181349"
   },
   {
     "path": "zh-Hans/articles/布拉瓦茨基著作/秘密教义笔记.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《秘密教义》笔记",
-    "bytes": 7993,
-    "sha256": "535e40b7547d9cbcb758b3d00a8a20e71278fcdeaf51d52b6deac3d9604541cb"
+    "bytes": 8009,
+    "sha256": "edcbfbd2e30cf5082d6e71b5cc32e08000e0d220b0121c0076dd3fc2a20db896"
   },
   {
     "path": "zh-Hans/articles/布拉瓦茨基著作/道路上的光.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《道路上的光》",
-    "bytes": 12211,
-    "sha256": "3704bf6e3a59b99fd58008b673ba95f7586b193c525910c9fa2f90a933cf729b"
+    "bytes": 12227,
+    "sha256": "af2b2d5331c174a02782a47d6209af2eaeec3a32920f0d815ef0709e7f60448d"
   },
   {
     "path": "zh-Hans/articles/快问快答/《秘密教义》的卡巴拉思想研究.md",
@@ -901,7 +973,7 @@
     "language": "zh-Hans",
     "title": "《秘密教义》的卡巴拉思想研究",
     "bytes": 22206,
-    "sha256": "843aed44e5c388464051a7ffe9ecac937d01b9d4dff30b6c194af6a92281c60d"
+    "sha256": "41edde96662bf7dc8d6e43915a162e3ee427b621d96e4a1a31beb1a49906ce5e"
   },
   {
     "path": "zh-Hans/articles/快问快答/上帝真的存在吗.md",
@@ -924,16 +996,16 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "真理与真相：从神秘学看幻象与实相",
-    "bytes": 10356,
-    "sha256": "1bfff297bb29d04dfb5a29f07231e7cdcc561aa3ea1e5edf2d15cdbf8d158948"
+    "bytes": 10372,
+    "sha256": "14333aeaa5d1d4306dec6c214f2eadc05b004c1e145fda3ae270a262e9f6a2cf"
   },
   {
     "path": "zh-Hans/articles/快问快答/内在平和的修习.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "内在平和的修习：从神秘科学看心智与宁静",
-    "bytes": 10496,
-    "sha256": "3be544da63ddb6e64b8076b503b1954b3ba545a5ba957b85a5cc64de1d0530a8"
+    "bytes": 10520,
+    "sha256": "033483faa55832cfcc989b4b46204426ee7bbc32c8b803628122d6524d19cd4b"
   },
   {
     "path": "zh-Hans/articles/快问快答/冥想指南.md",
@@ -965,15 +1037,15 @@
     "language": "zh-Hans",
     "title": "吸引力法则的观点与限制：从神秘科学看《秘密》与新思想",
     "bytes": 12759,
-    "sha256": "af5ec4eda4b4a5f41c8c97af89d773ad370353ce8a5a9c323d98ce60b7c6aa26"
+    "sha256": "f1f4fad7377cdc4f28735f694a0a3f84ef0521234ba42cdb467bf752d8320ef0"
   },
   {
     "path": "zh-Hans/articles/快问快答/命运业力与自由意志.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "命运、业力与自由意志：神秘科学观点",
-    "bytes": 11117,
-    "sha256": "c7ec3c968a722ea11d6531e23aa25f9d83d3974d1b2f2c2130f0dd568b475e7e"
+    "bytes": 11125,
+    "sha256": "4634802ea0c4f01fb8a630aef27932c9b732be72b86a2d52967876ef0965d556"
   },
   {
     "path": "zh-Hans/articles/快问快答/塔罗牌正确解读.md",
@@ -1004,16 +1076,16 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "开悟的意义：从神秘学看智性、解脱与内在转化",
-    "bytes": 9984,
-    "sha256": "de5d650a189ac1a420b79f2c1512cddd5c4e409d59e94033632486469ba74003"
+    "bytes": 9992,
+    "sha256": "0fb56eb1382bd4557a55f6ec99903192014ee04240b623e902fe8ab75828f65d"
   },
   {
     "path": "zh-Hans/articles/快问快答/心智是什么.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "心智是什么：从神秘科学看人类的「第五原则」与二元性",
-    "bytes": 12234,
-    "sha256": "e9b1ec72eefacdee615984c82fc4c866d508460e0e610bcb9e63f5ce3c3b7a93"
+    "bytes": 12242,
+    "sha256": "f50f4089aad4e5273fcf3d92e37261baabc7669deaa8a794958252e26f0c9f0a"
   },
   {
     "path": "zh-Hans/articles/快问快答/数字学指南.md",
@@ -1036,32 +1108,32 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "梦境解析指南：从神秘学看清醒梦、预知梦与潜意识",
-    "bytes": 11029,
-    "sha256": "c2f0412b52afeb4206cf42f997cd687d67d3efd49b2b3ada1b8a5b8c274f78be"
+    "bytes": 11037,
+    "sha256": "83be60b106b183bff0440a550a86eca42970050cdcfeb8f5bb804f87665d8c38"
   },
   {
     "path": "zh-Hans/articles/快问快答/正念与觉知.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "正念 (Mindfulness)：从神秘学与古老智慧看觉知与当下",
-    "bytes": 10360,
-    "sha256": "a385923ed3e08a7e9585687b44a938874f6b73df185ff0bf709b731f7d65a106"
+    "bytes": 10384,
+    "sha256": "cad6e0599581c89d09966beabd8d4c322f3824585542ad259aecb65156e1017d"
   },
   {
     "path": "zh-Hans/articles/快问快答/潜意识.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "潜意识：从神秘科学看本能心智、星光体与高我",
-    "bytes": 9677,
-    "sha256": "1be4bde15a4a985609bf65ea28290a1ef7180fb36543e757e991b870080e4f6b"
+    "bytes": 9685,
+    "sha256": "9c39cf5382c0c385b4aebf3d5b45495fb11cf00f84834e85680d975ff2ae89d8"
   },
   {
     "path": "zh-Hans/articles/快问快答/灵性觉醒指南.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "灵性觉醒指南：从神秘学看幻象、高等自我与觉醒阶段",
-    "bytes": 10055,
-    "sha256": "3603e87b52abe646142c8ee4b6513d0671bebb02e22cdebd617b40ba12d4ab54"
+    "bytes": 10071,
+    "sha256": "72eb8f47e25a6e002ceacb9c98d92b2f0a2a6c20940e14c5307c343995cbd0d5"
   },
   {
     "path": "zh-Hans/articles/快问快答/灵魂是什么.md",
@@ -1084,8 +1156,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "生命的意义：从神秘科学看灵魂觉醒与自我实现",
-    "bytes": 10473,
-    "sha256": "9b0b80ae85ee6bbe79a30ae0b289bbcd335b03642ab32eea59313aa27270dea0"
+    "bytes": 10481,
+    "sha256": "ca5221c16b33bfd3c55e938039b61b3b0bcbda9dce7f870bd27e8b9dd50dafea"
   },
   {
     "path": "zh-Hans/articles/快问快答/直觉是甚么.md",
@@ -1140,24 +1212,24 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "转世与业力：从神秘学看灵魂旅程",
-    "bytes": 11694,
-    "sha256": "6fecde477421a232fa21dc74762cf7af25f782256261507800636aecea94d01b"
+    "bytes": 11702,
+    "sha256": "d627f7e15359db21119e4576082fc0c15b8caea595c6bac65d7531aa5af97a71"
   },
   {
     "path": "zh-Hans/articles/快问快答/金字塔与启悟象征.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "金字塔与启悟象征：神秘学观点",
-    "bytes": 8981,
-    "sha256": "400913df225f87cb9409f6ddad259a0add6538c656475677082bbc543fc20216"
+    "bytes": 8989,
+    "sha256": "bb8bcefaebe569109d666d90e45713ac53920a2fc05a0562e974ef13e54c1608"
   },
   {
     "path": "zh-Hans/articles/快问快答/面对内在恐惧.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "面对内在恐惧：从神秘科学与古老智慧看恐惧的转化",
-    "bytes": 10895,
-    "sha256": "9bad20300da1d2bd3e53e00eb299c6ea5ffd1571449e757548ecfd46ca94b3e9"
+    "bytes": 10911,
+    "sha256": "6e1845edea85c38831b57ce8a50c6c2059a846627fbe1517af84a655b4519751"
   },
   {
     "path": "zh-Hans/articles/快问快答/鬼魂是甚么.md",
@@ -1172,16 +1244,16 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "魔戒神秘学：中土世界的生与死",
-    "bytes": 17871,
-    "sha256": "95ba5a9957f644dde0d6f77e28d2c3c6b15113113f7c6b189cb083989fa1edbe"
+    "bytes": 17887,
+    "sha256": "8ac25e08117c180f58143811cee3119bd7cc0f1a9c4d3456f6400253c7904436"
   },
   {
     "path": "zh-Hans/articles/托尔金的传奇/力量之戒的象征含义.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "力量之戒的象征含义",
-    "bytes": 10466,
-    "sha256": "247b5a3dc6eb3516efe52d0eb1e05756c3cfcbdb050cfe21b4130e2602eecea2"
+    "bytes": 10474,
+    "sha256": "5296aed9c85108e701d8c0959c2de2b605c90c5cd48d0bead1268f3ce03fb2db"
   },
   {
     "path": "zh-Hans/articles/托尔金的传奇/魔戒中的善与恶.md",
@@ -1197,15 +1269,15 @@
     "language": "zh-Hans",
     "title": "《魔戒》中的诗歌分析",
     "bytes": 9378,
-    "sha256": "e4e0be5c3994806f3c92a44f824428031324e07a3eb09d049e656d18a019518b"
+    "sha256": "9ac9abd2a65d905e4916915e97dbe00f7228b954c14bed2c5d6ee4607a95df75"
   },
   {
     "path": "zh-Hans/articles/托尔金的传奇/魔戒人物的象征意义.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "魔戒人物的象征意义",
-    "bytes": 12081,
-    "sha256": "87083bd32c0ce2d7b14564e5fdcaffdaf416e7579b0d62faf57869693042b76a"
+    "bytes": 12089,
+    "sha256": "0cbbf94799a1bc23a3a53fc786f8f618feedd537b28380b4a793ac207d43dde5"
   },
   {
     "path": "zh-Hans/articles/灵性小说/01精灵女王故事介绍.md",
@@ -1228,8 +1300,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "冥想，或称逃脱之道",
-    "bytes": 17280,
-    "sha256": "cbb732b9e3c7430730e1a523b891585b1e99ef157e553e8e6c3a7dfd4fa93b80"
+    "bytes": 17288,
+    "sha256": "67eb7993a8793e1db4badc0329ee3cd485799b4698413c7c30156c13da776519"
   },
   {
     "path": "zh-Hans/articles/灵性小说/坏掉的小提琴.md",
@@ -1237,15 +1309,15 @@
     "language": "zh-Hans",
     "title": "坏掉的小提琴",
     "bytes": 13450,
-    "sha256": "a082598a57c5071439bcb2691dbd9f4aca554e5659cc339ec52fbed19ca3546e"
+    "sha256": "2261c8390e56eac534f5d6f309639ac0a77568b2645889b2cf0d151c032fec2e"
   },
   {
     "path": "zh-Hans/articles/灵性小说/大自然的智慧之书：一个小男孩的奇妙发现.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "大自然的智慧之书：一个小男孩的奇妙发现",
-    "bytes": 11935,
-    "sha256": "06748721d3bc3072b78f86eed3ceedbaaa8ce21b158573d58bd3380259955c25"
+    "bytes": 11943,
+    "sha256": "c76034ba6058d367a5c483d952ad8ac9b852e6036e9e8dbaae07225b9d08494d"
   },
   {
     "path": "zh-Hans/articles/灵性小说/开悟者与小鬼.md",
@@ -1253,7 +1325,7 @@
     "language": "zh-Hans",
     "title": "《开悟者与小鬼》",
     "bytes": 28759,
-    "sha256": "3dcf5b0c646694df000e2d84a6c612fcb3327273bb5b90c251a312f9d98e0219"
+    "sha256": "70d48fc71f193e5e9c427fe185772ee530f9974fe35d1e4e48a93c5c5d46bfbd"
   },
   {
     "path": "zh-Hans/articles/灵性小说/星光界对话终章.md",
@@ -1276,8 +1348,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "《与开悟者同行：玫瑰十字会历险记》电子书",
-    "bytes": 3534,
-    "sha256": "6cb324a7e412c360ee81d8a369d5077c7041ac6668e7c4ec8ebf30144150e38c"
+    "bytes": 3550,
+    "sha256": "de5b2b8e164b67a58627354ffaf126a3d556136bdcfc1c8b07941252a0ba5807"
   },
   {
     "path": "zh-Hans/articles/灵性小说/童话中的神秘真相：解读安徒生白雪皇后作品的隐藏奥秘.md",
@@ -1285,7 +1357,7 @@
     "language": "zh-Hans",
     "title": "童话中的神秘真相：解读安徒生《白雪皇后》作品的隐藏奥秘",
     "bytes": 7385,
-    "sha256": "d258843a52d7c352f1ecae0c520e2cea3f44fe8a8ab72688a628327a9a914cef"
+    "sha256": "239ec82a86d7c6da392064c31f0836a3f08bbe01b95bbc5d61cb216b6c7ade54"
   },
   {
     "path": "zh-Hans/articles/灵性小说/铜镜：以心灵感应回溯古埃及的故事.md",
@@ -1317,7 +1389,7 @@
     "language": "zh-Hans",
     "title": "转世的现象与证据",
     "bytes": 8653,
-    "sha256": "f33f294d16754fd8adfa7931e2ddb37a89ac00316d7e08e050b371d5a490c6bc"
+    "sha256": "cbc808230cd65e6711e1ee705521514d68d1dc67473fdd2caa391be3d1e6fc40"
   },
   {
     "path": "zh-Hans/articles/生死奥秘/去世的人会到哪里去.md",
@@ -1332,8 +1404,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "揭开来世的面纱：探索来世真相与误解",
-    "bytes": 15771,
-    "sha256": "3dfe5911f3c9f7b366a0ec70674ee41e9024258b51c67a6828a6940f74f26f9a"
+    "bytes": 15803,
+    "sha256": "af8836e09cab3c49b2141120d1538124cb049c36a819db8ddbf00ff9e4317e92"
   },
   {
     "path": "zh-Hans/articles/生死奥秘/死亡和来世.md",
@@ -1357,7 +1429,7 @@
     "language": "zh-Hans",
     "title": "转世之谜：灵魂如何重生？",
     "bytes": 9935,
-    "sha256": "180b965a4bb72a2bc93079d235f08a6f78b6d4ee9f022df1ca645be46d3faf67"
+    "sha256": "3a542ed7820e859c0a85084617c2e46143b1968611a096877521f32a7e43c39d"
   },
   {
     "path": "zh-Hans/articles/神秘学的十二堂课/1.通往光明之路.md",
@@ -1379,17 +1451,17 @@
     "path": "zh-Hans/articles/神秘学的十二堂课/11.神秘学学习和冥想.md",
     "kind": "article",
     "language": "zh-Hans",
-    "title": "神秘学学习和冥想",
-    "bytes": 21197,
-    "sha256": "dc0a9496635d231f9cc17962015956dadddcaf40f9cc718f50e895c0df5fc4a7"
+    "title": null,
+    "bytes": 21263,
+    "sha256": "889d9aeda60554322f026b72181009eec8022d93f8b9e2e85f1349a8bb464eee"
   },
   {
     "path": "zh-Hans/articles/神秘学的十二堂课/12.灵魂.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "灵魂",
-    "bytes": 23051,
-    "sha256": "eba2a9b5bbfe0de41fce51c4041fc9c5fdd1276101006a0e55022a9b3e894217"
+    "bytes": 23067,
+    "sha256": "b2dd6141b41573cff452f72b86208f8ce7d961d0ef2f341ec29a4a6317f123a6"
   },
   {
     "path": "zh-Hans/articles/神秘学的十二堂课/2.神秘学丛林.md",
@@ -1468,16 +1540,16 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "光的灵视艺术",
-    "bytes": 15755,
-    "sha256": "cdf2df4421f4e15639c182600ff0e108e238f53e359a8d0fa852bf9e1478f1e6"
+    "bytes": 15779,
+    "sha256": "d16718b4005bc351b1a01dc2eabb306e78fbe1004c99fb491dd45640d2425fe8"
   },
   {
     "path": "zh-Hans/articles/符号与象征/十字和圆圈的神秘含义.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "十字和圆圈的神秘含义",
-    "bytes": 11932,
-    "sha256": "ae72a0997ef21f5e91e30e8634b822048467be008ce86c714995980eae0c652a"
+    "bytes": 11940,
+    "sha256": "f58eba662a82247ef330ae80cc4b3c86d27a147e69022eb8fd58eb7e6554ef59"
   },
   {
     "path": "zh-Hans/articles/符号与象征/古埃及艺术-深意在象征中寻找.md",
@@ -1508,8 +1580,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "数字「七」的神秘含义",
-    "bytes": 8240,
-    "sha256": "41fee6d4ed3af5239bb20c141622f41ba8d58c1b62426df3b567f3f80d30052b"
+    "bytes": 8264,
+    "sha256": "fdb2077501210565b7954761b971c3337b8a04340d10eac289017250541340d1"
   },
   {
     "path": "zh-Hans/articles/符号与象征/神秘数字学入门：1到10的神秘含义.md",
@@ -1517,7 +1589,7 @@
     "language": "zh-Hans",
     "title": "「神秘数字学」入门 — 1~10的神秘含义",
     "bytes": 8560,
-    "sha256": "9cfcb5a7daa60715982413ca052199af9307e8ed10173f48b38befc0248e7a4b"
+    "sha256": "005e541c9bd51bc15294aa17537e8244386adcbedf4e14d6ff3ff77d5bd198c3"
   },
   {
     "path": "zh-Hans/articles/符号与象征/神秘语言：解锁古老智慧的大门.md",
@@ -1525,7 +1597,7 @@
     "language": "zh-Hans",
     "title": "神秘语言：解锁古老智慧的大门",
     "bytes": 24517,
-    "sha256": "5864690cc36ef5fcefd298742e52ef5ec212cf94b46ba430309473898f01e70f"
+    "sha256": "0784c38bfc7934fc4fa9e75fd76bf729aa93c366f287d578aa17a165151a33f8"
   },
   {
     "path": "zh-Hans/articles/符号与象征/莲花、蛇、十字和圆、卐字的象征涵义.md",
@@ -1533,7 +1605,7 @@
     "language": "zh-Hans",
     "title": "莲花、蛇、十字和圆、卐字的象征涵义",
     "bytes": 4985,
-    "sha256": "5e802e8071f6c6e5f75c9219dfdb74701476ff4512e65ba6d6ee5f1ca24f1b12"
+    "sha256": "9bf3e3ca7a400f37f09ca0950a580e0b2895e60bcdc4b33b33a3764c53e36a39"
   },
   {
     "path": "zh-Hans/articles/符号与象征/解读古埃及死者之书.md",
@@ -1541,7 +1613,7 @@
     "language": "zh-Hans",
     "title": "解读古埃及《死者之书》",
     "bytes": 18437,
-    "sha256": "562d66eeb94c3c5393066817d629fc5afcc0f65c17fc40c83ebadaa3d10b7102"
+    "sha256": "c727b25b9a978df4bc52b4ff9ee22ef2be53e5249fbb6d8158a86fd331b4ce53"
   },
   {
     "path": "zh-Hans/articles/符号与象征/象征主义入门：莫札特魔笛中的灵性启蒙.md",
@@ -1556,56 +1628,64 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "《金黄星》中译本",
-    "bytes": 5419,
-    "sha256": "b476c71a86c22c4b6d7971682a5db4168e1934a16009bef0929041e1fa712248"
+    "bytes": 5435,
+    "sha256": "c5a050966b90310919e7a4b8da3559ae3298587ad3ca9b8d4249d29872f98cd2"
   },
   {
     "path": "zh-Hans/articles/米绍博士专栏/2.神秘学书选：鲁鲁的寻求.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《鲁鲁的寻求》",
-    "bytes": 3379,
-    "sha256": "38cd49779507cbed7d49bef0479895407ea893e4f5c7847a4396c83cae099173"
+    "bytes": 3395,
+    "sha256": "5d78c1c62cabf2fd30ad317fd6bbcf5d08809c74beed24a6803ef96cd6360218"
   },
   {
     "path": "zh-Hans/articles/米绍博士专栏/3.书籍推荐：李文和的教诲.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《李文和的教诲》",
-    "bytes": 2164,
-    "sha256": "75ec485521b3fb66eff41debaaa4a9c12fcd187f5c29a398690eaa8578f647f1"
+    "bytes": 2180,
+    "sha256": "da9d62c9d1aad9133ad24efa33aa0c26c2765352c7974ec80e86b85aeea9bbbf"
   },
   {
     "path": "zh-Hans/articles/米绍博士专栏/4.神秘学选读：米绍博士幻想交响曲.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《幻想交响曲》",
-    "bytes": 4658,
-    "sha256": "01b37dcc63cae98d1c370e21c54215ad5c9b5e62458369c9e010ded9740ea400"
+    "bytes": 4674,
+    "sha256": "345ec7a68750de4ac3c2f21c4db6f536eb24e918c86b82a4f5fbb2146992bda4"
   },
   {
     "path": "zh-Hans/articles/米绍博士专栏/5.神秘学书籍推荐：克里希纳的真实福音.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "《克里希纳的真实福音》",
-    "bytes": 3854,
-    "sha256": "a636c065e65334767c93653fad0f67b38fcf723a0cf140121e5853660ac72dd1"
+    "bytes": 3870,
+    "sha256": "37d8ba3031f2180ed628494a30374d220ae940f606b9c39875437e4755833117"
+  },
+  {
+    "path": "zh-Hans/articles/米绍博士专栏/米绍博士生平与著作.md",
+    "kind": "article",
+    "language": "zh-Hans",
+    "title": "米绍博士的生平",
+    "bytes": 16846,
+    "sha256": "be76ebfc25e9c70acaefa6032b55ca0ad28222b9decc51fe4d1f375a09b89f13"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/七个神秘的阶层.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "七个神秘的阶序",
-    "bytes": 6622,
-    "sha256": "254ccaa892dab41c798b42cf590e2da90b72c0a1005c7e06f82358697efedaf7"
+    "bytes": 6631,
+    "sha256": "fb7cfe04b64df2a1a29c0303e2ab914f9417f6acf1eb853cf93fc504d23752c3"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/三个逻各斯.md",
     "kind": "article",
     "language": "zh-Hans",
     "title": "三个逻各斯",
-    "bytes": 9193,
-    "sha256": "754c70a50dde3fcdc07052e424d8fdd7b9a1ddbf4e43d4cd27cfc538547a9494"
+    "bytes": 9209,
+    "sha256": "31ad92037b437dc8bee374cc0ef8008e4a80fcfbc173ee59aacb8765ce446a34"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/人的七大组成原则我们是什么.md",
@@ -1620,8 +1700,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "人的第六原则-菩提原则",
-    "bytes": 7978,
-    "sha256": "25f79271d0b3616d106d49e9af95a0b2dd6d9ae60d2266d24a9a1b0af431dc4f"
+    "bytes": 7994,
+    "sha256": "f498dbd8e0b0eeb8c3c00185bb7d644d3f6d8e034c1a363dafd7bb06a92207fb"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/人类灵魂的永恒进化：从矿物到神性.md",
@@ -1629,7 +1709,7 @@
     "language": "zh-Hans",
     "title": "人类灵魂的永恒进化：从矿物到神性",
     "bytes": 5430,
-    "sha256": "fb733c35db9f80fb216b864b68c311dc7fe2f1baebdb30e0dfb79e4d58f02890"
+    "sha256": "f52a0538a5fb7b2efcaf61034b45374fdd89b47768825a3c07453610bcda09e8"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/关于开悟者的一些事实.md",
@@ -1668,8 +1748,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "探索自我：神秘学中的灵魂奥秘",
-    "bytes": 15749,
-    "sha256": "4232e4b57cace6681b0af8b63efa53f826dd4a1b8a1f90661dfe77697bf60267"
+    "bytes": 15765,
+    "sha256": "e76886d10b5523aad478d5efb4ba4b3e38095bb5cc58ac2518f28f6174c3e5b0"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/揭开七层面之谜.md",
@@ -1693,7 +1773,7 @@
     "language": "zh-Hans",
     "title": "昆达利尼：蛇的力量和神秘之火",
     "bytes": 14394,
-    "sha256": "b61bb6e67fef42221b06ffbccb4f0efe96a959e44f36dc3797a418fb83103461"
+    "sha256": "406e98122393d5ed2cdd34132bf8ae3763c77e18b7246035e59287e59101f1c6"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/神秘的宇宙时代.md",
@@ -1708,8 +1788,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "黑暗与光明：《秘密教义》中的绝对与自性解读",
-    "bytes": 10030,
-    "sha256": "43f0579e87e481cf0d7ef33cbe049a61fb34c68091061d9336f69ca99c5a0ad2"
+    "bytes": 10038,
+    "sha256": "12640c16cb6399a48185231baf1297bef7a1e85caf0e8b2a1cf7ad240b998c76"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/老子与道：神秘学的洞见.md",
@@ -1717,7 +1797,7 @@
     "language": "zh-Hans",
     "title": "老子与道：神秘学的洞见",
     "bytes": 11241,
-    "sha256": "02cdb7d1f7e7515e0203338c8f709ca10ad197cd0d15fc8c5c95e18779361c59"
+    "sha256": "ed722d16de99fdbf2766effbcfed6f2acaffcfc50fb2e0576b6948c9a5f019c5"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/行星链、轮次和根种族进化的神秘学教义.md",
@@ -1733,7 +1813,7 @@
     "language": "zh-Hans",
     "title": "人类界之门的关闭",
     "bytes": 7936,
-    "sha256": "0e68f87addd39dbe75dd12759f627aaadeee5a5b1574bc814d7fe9da6fccd72d"
+    "sha256": "f20ac741f679bb6359e5053f0d3f7d4a799aeaf9db47729e02c0eb778abf6007"
   },
   {
     "path": "zh-Hans/articles/高阶智慧/逻各斯的哲学基础.md",
@@ -1764,8 +1844,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "催眠术的魔力与奥秘",
-    "bytes": 20689,
-    "sha256": "17d97a4069c2280414e366840fea3c7a785129c9604a158ba8f5f4eade8de36d"
+    "bytes": 20697,
+    "sha256": "04285a305c20f86752c6e13fb7e211c2860ca8061cb99cc721aac798b4ff0f44"
   },
   {
     "path": "zh-Hans/articles/魔法与灵视/催眠的危险与滥用：深入探讨.md",
@@ -1773,7 +1853,7 @@
     "language": "zh-Hans",
     "title": "催眠的危险与滥用：深入探讨",
     "bytes": 12107,
-    "sha256": "8bbf9836f183bf18690616141c5cb7318578c9171c69e0a85a96a04771e8451f"
+    "sha256": "53bf7b4318b2cd8f18886ed5bda95370b15d51c132ff3e8a741be685c29330e9"
   },
   {
     "path": "zh-Hans/articles/魔法与灵视/古埃及魔法的神秘与启示：白魔法与黑魔法的深度探讨.md",
@@ -1781,7 +1861,7 @@
     "language": "zh-Hans",
     "title": "古埃及魔法的神秘与启示：白魔法与黑魔法的深度探讨",
     "bytes": 11021,
-    "sha256": "642b64758e1f04dfc619f4e956853b7d34ea6b02621d81c5b361c42c04394e1e"
+    "sha256": "121ec4216c5155b9e6f3cc6724eaa8fbf271efcf72acd965a4bd3ed901a8a411"
   },
   {
     "path": "zh-Hans/articles/魔法与灵视/吸引力法则的诱惑.md",
@@ -1789,7 +1869,7 @@
     "language": "zh-Hans",
     "title": "吸引力法则的诱惑",
     "bytes": 22524,
-    "sha256": "3fd742aac1cf3ec9867318d285135ac9b1ec3033dd61868bf67e5f98bbaa2f7c"
+    "sha256": "330727a46d971ea8d49892d7b9d81fbac9b79bfec519049cba2def15cc419773"
   },
   {
     "path": "zh-Hans/articles/魔法与灵视/四大元素精灵与花仙子灵视力的观察纪录.md",
@@ -1808,6 +1888,14 @@
     "sha256": "a41efe4db09754283b0e6f353bd948e2185713e291a4a0ce93ba8cb91d2469f3"
   },
   {
+    "path": "zh-Hans/articles/魔法与灵视/弗朗兹巴登的教诲与生平.md",
+    "kind": "article",
+    "language": "zh-Hans",
+    "title": "弗朗兹・巴登的教诲与生平",
+    "bytes": 10080,
+    "sha256": "e22be14e9026e5603e23c3bde6496ef7b63100e0d87698252e87f9ff2a5db362"
+  },
+  {
     "path": "zh-Hans/articles/魔法与灵视/披著羊皮的黑魔法：吸引力法则与性密宗.md",
     "kind": "article",
     "language": "zh-Hans",
@@ -1820,8 +1908,8 @@
     "kind": "article",
     "language": "zh-Hans",
     "title": "揭开自然精灵的面纱：精灵世界的真实与传说",
-    "bytes": 16493,
-    "sha256": "a6711fc526ea068696b9ecd19219b366d5b7d8d95d72279f3d22e217ee7ac19e"
+    "bytes": 16509,
+    "sha256": "9f75d7a520b97483b2780f808eb9d6faf010982b4ab546b02edb50ef8dd7b7c3"
   },
   {
     "path": "zh-Hans/articles/魔法与灵视/揭开通灵与灵媒的危险：批判性思维下的真相.md",
@@ -1829,7 +1917,15 @@
     "language": "zh-Hans",
     "title": "揭开通灵与灵媒的危险：批判性思维下的真相",
     "bytes": 11609,
-    "sha256": "dea40ca97d7a3e5e950ad1d22c9820a45496e2230e6c2b4903a60f1a1aeb6406"
+    "sha256": "a4a0275a0bbd024727a92709fd853557bb7a7d2b72ae4e05ff4e8c2fc6abebb3"
+  },
+  {
+    "path": "zh-Hans/articles/魔法与灵视/旦利塞异象.md",
+    "kind": "article",
+    "language": "zh-Hans",
+    "title": "旦利塞异象：星光界与地狱天堂的濒死体验",
+    "bytes": 8377,
+    "sha256": "1770f9864ed1394676f5708a8150fdb2c5e17f315925c226a970523ecb780f51"
   },
   {
     "path": "zh-Hans/articles/魔法与灵视/星光界下层与上层领域的一瞥.md",
@@ -1861,7 +1957,7 @@
     "language": "zh-Hans",
     "title": "灵视力观察：《众神的国度》",
     "bytes": 36523,
-    "sha256": "b19e5edb2b8f446d82b1fb189984f8eeee85ffdcb755ff672bc8c5ce6741f1f8"
+    "sha256": "d7b2c816ab6b5e141058e1dcd56b6b3ae154007dedfd7538ec531069c04d5763"
   },
   {
     "path": "zh-Hans/articles/魔法与灵视/炼金术碑文与事前准备.md",
@@ -1869,7 +1965,7 @@
     "language": "zh-Hans",
     "title": "炼金术碑文与事前准备",
     "bytes": 6060,
-    "sha256": "1a96ff2460bdb45c6c7f27e1fc2ef2067cd112362a8052918496c6761d1e67f2"
+    "sha256": "f1905e235b8b61d396f2926cc14b9ac82f420187bb942f1ea0c286f1a3ff72df"
   },
   {
     "path": "zh-Hans/articles/魔法与灵视/白魔法师的典范德鲁伊祭司.md",
@@ -2955,9 +3051,9 @@
     "path": "zh-Hans/books/texts/《秘密教义》笔记/02-第一章.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "第一章",
-    "bytes": 16055,
-    "sha256": "82cc5337f69f00d47883410f7538944827da004f59f2c7adf20f23f5b3f97802"
+    "title": null,
+    "bytes": 16058,
+    "sha256": "790c5de7baa8891486adeab0b493889afc755b45d5be90a4d8f75da4824de43b"
   },
   {
     "path": "zh-Hans/books/texts/《秘密教义》笔记/03-第二章.md",
@@ -2979,25 +3075,25 @@
     "path": "zh-Hans/books/texts/《秘密教义》笔记/05-第四章.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "第四章",
-    "bytes": 27159,
-    "sha256": "f70532b17d6c93273998483746281ed4096f0ba3ddd003f3a19f2c38446cecf2"
+    "title": null,
+    "bytes": 27162,
+    "sha256": "595bbafac405a00dc2f0a598bd205df108e1fa874ba2b9eceb68d0a5aac56baf"
   },
   {
     "path": "zh-Hans/books/texts/《秘密教义》笔记/06-第五章.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "第五章",
-    "bytes": 15302,
-    "sha256": "b10af1b70ed43e1346c4f02f65727bba89d2373cdd250bf1cf940b3400260695"
+    "title": null,
+    "bytes": 15305,
+    "sha256": "020b6101c3a2343dabcb8ee202677261391106ff69e3d71a9e17d38c1b8b264b"
   },
   {
     "path": "zh-Hans/books/texts/《秘密教义》笔记/07-第六章.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "第六章",
-    "bytes": 14120,
-    "sha256": "d69b4179c51303506647e8de720559e1115bf0fd4c6503a80fecb0b2855b06be"
+    "title": null,
+    "bytes": 14123,
+    "sha256": "9f40c1cdf4a00dcdfbfe7cafada87443a064ad2dc96aa1438296a8bae3315b9a"
   },
   {
     "path": "zh-Hans/books/texts/《秘密教义》笔记/08-第七章.md",
@@ -4619,9 +4715,9 @@
     "path": "zh-Hans/books/texts/欧涅斯的《启示录》及注释/06-以诺的铭文.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "欧涅斯的《启示录》—上帝之言",
-    "bytes": 6114,
-    "sha256": "087e9332f3575f19b01f19192663c9eb2eced15dea4e389096e9f38eee90eb47"
+    "title": null,
+    "bytes": 6116,
+    "sha256": "6ee299b590080ee1a1c8e7527b8af9f733269d4b065b87478573ef050365e43a"
   },
   {
     "path": "zh-Hans/books/texts/欧涅斯的《启示录》及注释/07-1.md",
@@ -5397,7 +5493,7 @@
     "language": "zh-Hans",
     "title": "《白莲田园诗》释义",
     "bytes": 17746,
-    "sha256": "4d923878acff65f6355e08aab3d498638b4ced26332d56bed3090968987ee2f1"
+    "sha256": "80e53252b66dc06e032c72ec25497ea7e6d0e18e36715b7edcda8b01942bae89"
   },
   {
     "path": "zh-Hans/books/texts/神圣智慧之钥/001_致献.md",
@@ -6947,57 +7043,57 @@
     "path": "zh-Hans/books/texts/金黄星/10.异象六星光界之火.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象六：星光界之火",
-    "bytes": 32460,
-    "sha256": "4a70c8d496c97df55b1a064c3ad5c8a8500fe3bb3ee943fd7f572b8102c0b531"
+    "title": null,
+    "bytes": 32462,
+    "sha256": "f21c5a94323a89c77355bb0961af84825ff3ff2d66a8137657316c5133277e05"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/11.异象七十字的象征.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象七：十字的象征",
-    "bytes": 35204,
-    "sha256": "d84f7f4dcb9e2e24c87521028a8d1f80833e6a1bb9cbb55d5edd0c6c33f7e948"
+    "title": null,
+    "bytes": 35206,
+    "sha256": "6b26445c9e39b96d28f39a1fd99825e5a028f1b96998afe4ea247f633998c0c8"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/12.异象八太阳系.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象八：太阳系",
-    "bytes": 61616,
-    "sha256": "3d865a73784b5edc91195ee9c61045d3381e22301ff8b9fdc9e50861580d0476"
+    "title": null,
+    "bytes": 61618,
+    "sha256": "f821993a0a717a8b2f6648b5b212357ac18693d734a1e909d7d14e41c8289c61"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/13.异象九宇宙意识.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象九：宇宙意识",
-    "bytes": 44360,
-    "sha256": "4706ebf94d52b64501cf0e4ee83a5913d3454ef938f3c426282cdfcf3163e58d"
+    "title": null,
+    "bytes": 44362,
+    "sha256": "cd4ac8abea941eaf7b384d953ece347a96708ab49b1aef12b4bff4fb34f3f712"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/14.异象十伟大的光.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象十：伟大的光",
-    "bytes": 37047,
-    "sha256": "a4ac0ef92fcd6c5e4ebafcd7af2b2501721df0a5750fa9de70696aece5ff9a04"
+    "title": null,
+    "bytes": 37049,
+    "sha256": "d32630fb6cb4bce64458c16e9ae3b309a098e0f561a6d56736e2597fe03b74c5"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/15.异象十一天界的居住者.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象十一：天界的居住者",
-    "bytes": 34869,
-    "sha256": "5bf4764e36bf8f3e4c4c3edd90b10bd0c4bb3a487ead400138835e2895a0214b"
+    "title": null,
+    "bytes": 34871,
+    "sha256": "d0ca13487055caecc95af3d98b7f62a1d6b9da1208e9cf56aa776f9cb8c11e7f"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/16.异象十二神.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象十二：神 (IEUE)",
-    "bytes": 32478,
-    "sha256": "d86b6943198b3468db88a7d12152efed53072eb83fbc104777c3337bbde02548"
+    "title": null,
+    "bytes": 32480,
+    "sha256": "5f0a99d6a6406d60d4713c58ec515478c9e10f7f21947f62212dfd32d250bfe6"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/2.致献.md",
@@ -7027,25 +7123,25 @@
     "path": "zh-Hans/books/texts/金黄星/5.异象一黑夜的领域.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象一：黑夜的领域",
-    "bytes": 43640,
-    "sha256": "18ecdecb9a11a240613e7b20a586f870575a736c69835de28294b43ca885cc2e"
+    "title": null,
+    "bytes": 43642,
+    "sha256": "d69b19e05b209961ec2b34495b5e25fa77664cf0d9deaf7e23e9c6752cfffb66"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/6.异象二恶魔与天神.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象二：恶魔与天神",
-    "bytes": 48486,
-    "sha256": "31049e154eb8fc0033455538b9a2e9a4059cb1c5bd2e01cfabdcd9f9045bf842"
+    "title": null,
+    "bytes": 48488,
+    "sha256": "908bc11130a9aaf169299bddf50313cc93c9697ceece0330a7d52274755cb08e"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/7.异象三元素与精灵.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象三：元素与精灵",
-    "bytes": 41132,
-    "sha256": "f3f47013a6c853173014ab5f778c3a4dc5347b26bbcc102d45836eb13ec21cea"
+    "title": null,
+    "bytes": 41134,
+    "sha256": "60ab9048fee379add63f238ebd38ea9cf810f7322996164e1a2eaa125d9bef6a"
   },
   {
     "path": "zh-Hans/books/texts/金黄星/8.异象四巫术.md",
@@ -7059,9 +7155,9 @@
     "path": "zh-Hans/books/texts/金黄星/9.异象五通灵主义.md",
     "kind": "book-text",
     "language": "zh-Hans",
-    "title": "异象五：通灵主义",
-    "bytes": 62044,
-    "sha256": "d9e6dd89098517b3039eef7091b89297a05b90c40ccab9e7fda9a85aa021d7e1"
+    "title": null,
+    "bytes": 62046,
+    "sha256": "f5149d75b9d96edad5393bdb0d0c93fb7e15bca5ef7ea99fe71f05b441300d4d"
   },
   {
     "path": "zh-Hans/books/texts/鲁鲁的寻求/001_目录.md",
@@ -7101,7 +7197,7 @@
     "language": "zh-Hans",
     "title": "作者符号的使用",
     "bytes": 830,
-    "sha256": "746c4a19fa2bce1bc4abc6c9ee12b41a435f248cb89db3bde58b04463a147f6d"
+    "sha256": "5597f2de595a6a351626f14d407ec8a6eabea05314385c32e3a9c7a2898dedcc"
   },
   {
     "path": "zh-Hans/books/texts/鲁鲁的寻求/006_第一部 — 下降的三角形.md",
@@ -7397,7 +7493,7 @@
     "language": "zh-Hant",
     "title": "阿茲特克、羽蛇神與美洲神話導讀",
     "bytes": 1822,
-    "sha256": "2861fce67e8d01198bdbcfaac18ac3ff0cf3b3d2aa136abf977d2d805618d9da"
+    "sha256": "d216f2995adf669933069cfd44ed7adfc0493a37870f5d58e2a83fc33fef7d27"
   },
   {
     "path": "zh-Hant/articles/主題導讀/魔法顯化與黑魔法辨識.md",
@@ -7446,6 +7542,30 @@
     "title": "巨人：事實還是幻想？",
     "bytes": 19177,
     "sha256": "c6e0a5401c53bbe0ae307c4df9bee9cc2151c457c72f8b77f27a0c373cbf9bbc"
+  },
+  {
+    "path": "zh-Hant/articles/作者介紹/弗朗茲巴登.md",
+    "kind": "article",
+    "language": "zh-Hant",
+    "title": "弗朗茲・巴登",
+    "bytes": 748,
+    "sha256": "c96409c6f781058566241b888ba86d71d6130b35b0ca6a5e4345fed0f87281a0"
+  },
+  {
+    "path": "zh-Hant/articles/作者介紹/米紹博士.md",
+    "kind": "article",
+    "language": "zh-Hant",
+    "title": "米紹博士",
+    "bytes": 864,
+    "sha256": "2000d92517543a16ed2b1f1c5d1c3a646c460ab85a6ce71e71c15d159e17c0d0"
+  },
+  {
+    "path": "zh-Hant/articles/作者介紹/肯尼利博士.md",
+    "kind": "article",
+    "language": "zh-Hant",
+    "title": "E. V. 肯尼利博士（Dr E. V. Kenealy，1819-1880）",
+    "bytes": 6602,
+    "sha256": "e178fff1605b253c3616fb5e2be869d1535e0f159caeb9a1197cc04be576f981"
   },
   {
     "path": "zh-Hant/articles/修行問答/內在的大師如何找到自己的靈性.md",
@@ -7816,6 +7936,14 @@
     "sha256": "e0c2edd3ca0005738de4ad6fad57f92447ea9a3c4b818a160a82052a30b15295"
   },
   {
+    "path": "zh-Hant/articles/哲學與真理/遍及萬物的愛.md",
+    "kind": "article",
+    "language": "zh-Hant",
+    "title": "遍及萬物的愛：超越形體的永恆之光",
+    "bytes": 3088,
+    "sha256": "b69ac92d682c54eb4ac767d7a3483c14e94d2388e9a42d1c462293289c574166"
+  },
+  {
     "path": "zh-Hant/articles/外文經典推薦/《以諾書》上帝的第二位信使.md",
     "kind": "article",
     "language": "zh-Hant",
@@ -7974,6 +8102,14 @@
     "title": "音樂的神秘力量：善惡與靈性",
     "bytes": 31387,
     "sha256": "34aa732ae5b511d1801fb62ac4fafa7e6fd31185e62a45231c559adc1afd861c"
+  },
+  {
+    "path": "zh-Hant/articles/宗教與神話/《博伽梵歌》的本體與內在戰爭.md",
+    "kind": "article",
+    "language": "zh-Hant",
+    "title": "《博伽梵歌》的本體與內在戰爭：布拉瓦茨基的洞見",
+    "bytes": 11935,
+    "sha256": "cd9ed72af5bf8bc04b30b42adf2a54ac1d89acdeb68a0444952a1dfb0cce01f4"
   },
   {
     "path": "zh-Hant/articles/宗教與神話/《薄伽梵歌》神話寓言與靈性覺醒之旅.md",
@@ -8173,7 +8309,7 @@
     "language": "zh-Hant",
     "title": "《秘密教義》的卡巴拉思想研究",
     "bytes": 22206,
-    "sha256": "a9c57562ec6e728bbab75d5a91fa2618cb72a5a56b284ac900841f1823919310"
+    "sha256": "4ce46683dc1d788291b46a0a1b35fc300a69e4b599a03910ba1f9119ec8d0162"
   },
   {
     "path": "zh-Hant/articles/快問快答/上帝真的存在嗎.md",
@@ -8563,9 +8699,9 @@
     "path": "zh-Hant/articles/神秘學的十二堂課/11.神秘學學習和冥想.md",
     "kind": "article",
     "language": "zh-Hant",
-    "title": "神秘學學習和冥想",
-    "bytes": 21197,
-    "sha256": "ba9806023fb96896d4cdd9ee6eb6adf44cfe2a81c5c6fbffe52ba132f084045b"
+    "title": null,
+    "bytes": 21199,
+    "sha256": "9c91d24f8c2ca74cd86ac52af175b7c0e0fa831d3c5908ecb9898884481b2792"
   },
   {
     "path": "zh-Hant/articles/神秘學的十二堂課/12.靈魂.md",
@@ -8776,6 +8912,14 @@
     "sha256": "c408aa2d9ded6f43ea971c8987f7304fb076ebe361480aaf32546911dfacc345"
   },
   {
+    "path": "zh-Hant/articles/米紹博士專欄/米紹博士生平與著作.md",
+    "kind": "article",
+    "language": "zh-Hant",
+    "title": "米紹博士的生平",
+    "bytes": 16774,
+    "sha256": "63330ee040345894ddc1293a69a3b984c1511d2ae6594d089cd0a4c644fac619"
+  },
+  {
     "path": "zh-Hant/articles/靈性小說/01精靈女王故事介紹.md",
     "kind": "article",
     "language": "zh-Hant",
@@ -8868,8 +9012,8 @@
     "kind": "article",
     "language": "zh-Hant",
     "title": "七個神秘的階序",
-    "bytes": 6622,
-    "sha256": "431e99026ec14de412f563ff42dca695529106484abfd889ca8b2ef4e1b59eef"
+    "bytes": 6623,
+    "sha256": "a2e884501eb8549080d40340a174bfc88bfb9288b01ca980659c72657e8af6d4"
   },
   {
     "path": "zh-Hant/articles/高階智慧/三個邏各斯.md",
@@ -9080,6 +9224,14 @@
     "sha256": "459c5578dfeabadef0e7c97dadbed8cc63282b9b82c778a7b56f93a4f1bab31b"
   },
   {
+    "path": "zh-Hant/articles/魔法與靈視/弗朗茲巴登的教誨與生平.md",
+    "kind": "article",
+    "language": "zh-Hant",
+    "title": "弗朗茲・巴登的教誨與生平",
+    "bytes": 10056,
+    "sha256": "7fe022adc7cd4dd2858e0641ce84e16bdf5138a8aaefa467db7edbde5e9f9ddc"
+  },
+  {
     "path": "zh-Hant/articles/魔法與靈視/披著羊皮的黑魔法：吸引力法則與性密宗.md",
     "kind": "article",
     "language": "zh-Hant",
@@ -9102,6 +9254,14 @@
     "title": "揭開通靈與靈媒的危險：批判性思維下的真相",
     "bytes": 11593,
     "sha256": "ddd965b7c097c8c8b1c571c206ee76801fa270a18fae467bd336620863ae87e0"
+  },
+  {
+    "path": "zh-Hant/articles/魔法與靈視/旦利塞異象.md",
+    "kind": "article",
+    "language": "zh-Hant",
+    "title": "旦利塞異象：星光界與地獄天堂的瀕死體驗",
+    "bytes": 8377,
+    "sha256": "fad5de9e1e0745cf3ac1e807446aff28fe09ef6ee8b872e7ca08336267254a99"
   },
   {
     "path": "zh-Hant/articles/魔法與靈視/星光界下層與上層領域的一瞥.md",
@@ -10227,9 +10387,9 @@
     "path": "zh-Hant/books/texts/《秘密教義》筆記/02-第一章.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "第一章",
-    "bytes": 16055,
-    "sha256": "27d1be79da091f4af4c68e27b9e364bed26479f95fc874349351da1fffa0404f"
+    "title": null,
+    "bytes": 16058,
+    "sha256": "fb3520eee99d2e70abb8b6ba3a90b63230f4cbe9b9e8c393f7e05448a20f227e"
   },
   {
     "path": "zh-Hant/books/texts/《秘密教義》筆記/03-第二章.md",
@@ -10251,25 +10411,25 @@
     "path": "zh-Hant/books/texts/《秘密教義》筆記/05-第四章.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "第四章",
-    "bytes": 27159,
-    "sha256": "ec54559746e5e05166f25a2e82c432fbdb5da97b4e3db3a52a4b593a36b98885"
+    "title": null,
+    "bytes": 27162,
+    "sha256": "d18f44bfd10e27457f0f7df93885147c94900852ee498448767e12622574df98"
   },
   {
     "path": "zh-Hant/books/texts/《秘密教義》筆記/06-第五章.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "第五章",
-    "bytes": 15302,
-    "sha256": "3d0058ace8fc40efe23ccd088deae8a0589d0698700e3170b64eac188b03f5fe"
+    "title": null,
+    "bytes": 15305,
+    "sha256": "c291089d9caf7d1904228383f5e423931d1386bb63e2ccedcfa55cba2aecb999"
   },
   {
     "path": "zh-Hant/books/texts/《秘密教義》筆記/07-第六章.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "第六章",
-    "bytes": 14120,
-    "sha256": "a9d748baa0de4f478284c840322defb6ea333d64b0d4653c3adbe512fa1be34c"
+    "title": null,
+    "bytes": 14123,
+    "sha256": "e98211c35cb6f83ed27fa6ed4e870a2a693c1ce05c1386a338679c8df29c0900"
   },
   {
     "path": "zh-Hant/books/texts/《秘密教義》筆記/08-第七章.md",
@@ -11699,9 +11859,9 @@
     "path": "zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/06-以諾的銘文.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "歐涅斯的《啟示錄》—上帝之言",
-    "bytes": 6114,
-    "sha256": "d21c44d3f85ec7a310de26f8817d6096cbce3a6bcd64554e9a161a3128436894"
+    "title": null,
+    "bytes": 6116,
+    "sha256": "ad8c8ca902bb67745829c2da7204259ab4c424fb5c28a25effa2a70d0e5f3b6e"
   },
   {
     "path": "zh-Hant/books/texts/歐涅斯的《啟示錄》及注釋/07-1.md",
@@ -14219,57 +14379,57 @@
     "path": "zh-Hant/books/texts/金黃星/10.異象六星光界之火.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象六：星光界之火",
-    "bytes": 32460,
-    "sha256": "19fce96d036de75bf03efee12ccf46a98a66651e54c2e997cc4840100df2a80d"
+    "title": null,
+    "bytes": 32462,
+    "sha256": "f179edd52f39bc804254cd54d95f1b22fadb724014e32b83b63308ec532237e0"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/11.異象七十字的象徵.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象七：十字的象徵",
-    "bytes": 35204,
-    "sha256": "1d70cb0d0fcdf7e333024028a613b631b6502c9fb683f498bb37e591b9e29279"
+    "title": null,
+    "bytes": 35206,
+    "sha256": "106ee20350c501c7e09e3efe8d2fe4a48a5ed56db0d6f2867a67b659e56c04a7"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/12.異象八太陽系.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象八：太陽系",
-    "bytes": 61616,
-    "sha256": "b15a863509c97d60b3fbe5a3ef98d533dd71c4a4978f4b9c99c7f5fd17437915"
+    "title": null,
+    "bytes": 61618,
+    "sha256": "4139c3df6fd077b04e8352ffc002f462c57737ea224322e347a0746b6639e686"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/13.異象九宇宙意識.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象九：宇宙意識",
-    "bytes": 44360,
-    "sha256": "c632462b61d1bb535a0bac3479569fbc21c4994f114bd3b008b8fc738a6b90dd"
+    "title": null,
+    "bytes": 44362,
+    "sha256": "12c3d99beeed8f2e4ac8569300c8d82c2b4e1b1bc55c55180126f3cdd32d80cc"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/14.異象十偉大的光.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象十：偉大的光",
-    "bytes": 37047,
-    "sha256": "f44d16ae385e47c0e79f89fe09f4bf721ff458251e3a4cb46b91b651189651ca"
+    "title": null,
+    "bytes": 37049,
+    "sha256": "8887abc6e5aedd8f9e7f8ca001bd03c7ec9fde8b7585f6c7c1e7f81841d4cfca"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/15.異象十一天界的居住者.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象十一：天界的居住者",
-    "bytes": 34869,
-    "sha256": "cb2638f70242099ef03a14ef380bc2c68389a8a64aec70e584f21a857bf86aea"
+    "title": null,
+    "bytes": 34871,
+    "sha256": "7ecdcaa48c053a171a960f3cfb9d2a385e4aad236e9d9f75494252260649eed0"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/16.異象十二神.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象十二：神 (IEUE)",
-    "bytes": 32478,
-    "sha256": "d5dd5939a298e712cfdea9481dabc11ce878360f411aa0027e08254a2bba79de"
+    "title": null,
+    "bytes": 32480,
+    "sha256": "0a7041cf111a9df4bcf01ea7dc01d4257beca91d426cff8787eda4035211e60c"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/2.致獻.md",
@@ -14299,25 +14459,25 @@
     "path": "zh-Hant/books/texts/金黃星/5.異象一黑夜的領域.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象一：黑夜的領域",
-    "bytes": 43640,
-    "sha256": "e74828997715c80f4d31b57f18b225c628606977f2483d92d2e226066d449038"
+    "title": null,
+    "bytes": 43642,
+    "sha256": "c8766c65fe8f6425b1a23cc2d329b95de8c5b11af68817151df6993252602be1"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/6.異象二惡魔與天神.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象二：惡魔與天神",
-    "bytes": 48486,
-    "sha256": "0c9bf47d5c262cb31754ea8c64a273f566952f371b0c04d7cdfa64eb5dc40b43"
+    "title": null,
+    "bytes": 48488,
+    "sha256": "fb962e4b4c9e63da5fe56b69978f44fd9c9c286e5f1493c3afbed1a3ce50da98"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/7.異象三元素與精靈.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象三：元素與精靈",
-    "bytes": 41132,
-    "sha256": "a006bd5580a0b6b1cf32f8cc1b01266da1f524891889b2f84889026acb9caa58"
+    "title": null,
+    "bytes": 41134,
+    "sha256": "afc9e0ebe3479d265f9d3f6977b0ad75e26512cbd053f47d6d2f68edbb759c87"
   },
   {
     "path": "zh-Hant/books/texts/金黃星/8.異象四巫術.md",
@@ -14331,9 +14491,9 @@
     "path": "zh-Hant/books/texts/金黃星/9.異象五通靈主義.md",
     "kind": "book-text",
     "language": "zh-Hant",
-    "title": "異象五：通靈主義",
-    "bytes": 62044,
-    "sha256": "a15fecafad8fedaa248938f9b96b0ad74f8516679d6899cb9b64a8606ecbe48a"
+    "title": null,
+    "bytes": 62046,
+    "sha256": "2fe05f429c18a3ba9b2282ece59c06b3be480e84c89ee085587b263ec96c6992"
   },
   {
     "path": "zh-Hant/books/texts/魯魯的尋求/001_目錄.md",
